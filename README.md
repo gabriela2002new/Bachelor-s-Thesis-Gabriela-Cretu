@@ -211,5 +211,3 @@ Gabriela Crețu
 ## License
 
 For academic and research use only.
-
-```
