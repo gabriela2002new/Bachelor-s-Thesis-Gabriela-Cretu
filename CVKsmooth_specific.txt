@@ -1,0 +1,6 @@
+Estimated coefficients (rows = predictors, columns = countries):
+                                        Brazil       Canada  Costa Rica  Dominican Republic  El Salvador      France     Honduras    Indonesia       Italy      Panama       Spain     Sweden    Thailand  United Kingdom  United States
+Country mean (intercept)             39.218475   -18.240042 -231.179866        -1380.182661   -23.697406  -10.072142  -110.145052  1412.685992    9.740482   90.155898   -3.769822   0.274037   17.106834       -1.507342       0.680812
+Gini_times_Government_expenditure    -0.748096    -0.218465    2.431118           11.785159    -0.827322   -0.010216     0.657716     0.186819   -0.515938   -0.181853    0.000117   0.000017   10.028436       -0.488489       0.002707
+Gini_times_Human_Development_Index   84.005965  -123.707806  764.685278        -3103.224419   150.554833    4.014245 -1789.683349  3842.872409  145.525960 -217.413200   40.687407   0.069786 -811.742613      223.764061      -0.682177
+Gini_times_Political_corruption    -103.224328  5448.580785 -174.486832         5464.130792    25.463313  482.502361  1396.913199 -6777.930500 -340.224825   51.356701 -457.801831 -45.296748  384.837117    -5077.360401       0.448297

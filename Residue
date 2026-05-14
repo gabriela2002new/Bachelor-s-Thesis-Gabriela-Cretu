@@ -1,0 +1,74 @@
+    with open("last_bandwidth_removed_fixed_effects_bandwidth_selection.txt", "w") as f:
+        f.write("Fixed effect-removed result:\n")
+        f.write(np.array2string(MY, threshold=np.inf))
+
+
+    with open("sum3_squared_errors_per_fold.txt", "w") as f:
+        f.write("For each fold out of the k_fold number we consider for each element in the test set the error between actual and fitted and compute the sum for each fold of the squared errors :\n")
+        for value in CVSE:
+            f.write(f"{value}\n")
+
+    optimal_h_list = []
+    h = np.linspace(0.05 * (T ** (-1 / 5)), 0.5 * (T ** (-1 / 5)), 10)
+    print(h[0])
+    print(h[1])
+    print(h[2])
+    print(h[3])
+    print(h[4])
+    print(h[5])
+    print(h[6])
+    print(h[7])
+    print(h[8])
+    print(h[9])
+
+    SY_mod2 = FunctionsLatentTimeVarying.remove_fixed_effects([X1,X2,X3], Y_panel, VT, SX, SY, vt, h[9])
+    with open("separate_bandwidth_removed_fixed_effects_bandwidth_selection.txt", "w") as f:
+        f.write("Fixed effect-removed result:\n")
+        f.write(np.array2string(SY_mod2, threshold=np.inf))
+
+
+
+    #for t in range(T - 1):
+     #   optimal_h_list.append(FunctionsLatentTimeVarying.hselector([X1,X2,X3], Y_panel, VT, SX, SY, vt, t+2, h_len=3))
+    #counts = Counter(optimal_h_list)
+
+    #most_common_h, freq = counts.most_common(1)[0]
+
+    #print(f"Bandwidth {most_common_h} is optimal in {freq} folds, selected as best overall.")"""
+
+    """
+    #Part 2
+
+    #FunctionsLatentTimeVarying.hselector(SX,SY,vt)
+    print(T/2)
+    print (FunctionsLatentTimeVarying.hselector(SX, SY,vt,T))
+    optimal_h_list=[]
+    print(np.linspace(0.05 * T**(-1/5), 0.5 * T**(-1/5), 10))
+    for t in range(T-1):
+      optimal_h_list.append(FunctionsLatentTimeVarying.hselector(SX, SY,vt,t+2))
+
+    counts = Counter(optimal_h_list)
+    most_common_h, freq = counts.most_common(1)[0]
+
+    print(f"Bandwidth {most_common_h} is optimal in {freq} folds, selected as best overall.")
+
+  """
+
+    """T, N = Y_panel.shape
+        X_list=[X1,X2,X3]
+
+        SY_mod = remove_fixed_effects(X_list, Y_panel, VT, SX, SY, vt, 0.1)
+        MY = SY_mod.reshape(T, N, order='F')
+
+        MX_train_list = [X[:-1, :] for X in X_list]
+        MX_test_list = [X[-1:, :] for X in X_list]
+
+        MY_train = MY[:-1, :]
+        MY_test = MY[-1:, :]
+
+        MV_train = VT[:-1, :]
+        MV_test = VT[-1:, :]
+
+        errors = FunctionsLatentTimeVarying.eval_func(MX_train_list, MY_train, MV_train,
+                           MX_test_list, MY_test, MV_test, h=0.1)
+        print(errors)"""

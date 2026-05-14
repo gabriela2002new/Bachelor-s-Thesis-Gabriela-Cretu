@@ -1,0 +1,33 @@
+
+Optimal bandwidth used: h = 0.24555930495936834
+
+BIC frequencies of cluster numbers 1 - 5:
+0, 5, 10, 0, 0
+
+AIC frequencies of cluster numbers 1 - 5:
+0, 0, 14, 1, 0
+
+BIC average NMI and std:
+0.7911 (0.0683)
+
+BIC average purity and std:
+0.8573 (0.1136)
+
+AIC average NMI and std:
+0.8054 (0.0603)
+
+AIC average purity and std:
+0.9147 (0.0534)
+
+Oracle RMSE (known clusters) average and std:
+0.2759 (0.0153)
+
+Nonparametric RMSE average and std:
+0.5181 (0.0132)
+
+BIC post-HAC RMSE average and std:
+0.3449 (0.0494)
+
+AIC post-HAC RMSE average and std:
+0.3233 (0.0283)
+

@@ -1,0 +1,6 @@
+AIC:
+{'RMSE_NP': array([0.14767908]), 'Oracle_RMSE': array([0.10914615]), 'RMSE': array([0.10914615]), 'Purity': array([1.]), 'NMI': array([1.])}
+
+BIC:
+{'RMSE_NP': array([0.14767908]), 'Oracle_RMSE': array([0.10914615]), 'RMSE': array([0.10914615]), 'Purity': array([1.]), 'NMI': array([1.])}
+

@@ -1,0 +1,2708 @@
+Interpolated poverty gap index values per country:
+
+                              Country  Year  Poverty_gap
+                              Albania  1996     0.534846
+                              Albania  2002     1.092647
+                              Albania  2005     0.591086
+                              Albania  2008     0.199925
+                              Albania  2012     0.620691
+                              Albania  2014     1.023101
+                              Albania  2015     0.096067
+                              Albania  2016     0.139303
+                              Albania  2017     0.392570
+                              Albania  2018     0.048107
+                              Albania  2019     0.000000
+                              Albania  2020     0.021277
+                              Algeria  1988     6.420000
+                              Algeria  1995     6.119000
+                              Algeria  2011     0.000000
+                               Angola  2000    21.360565
+                               Angola  2008    14.589688
+                               Angola  2018    31.122005
+                    Argentina (urban)  1980     0.000000
+                    Argentina (urban)  1986     1.119132
+                    Argentina (urban)  1987     1.186086
+                    Argentina (urban)  1991     0.972029
+                    Argentina (urban)  1992     1.673713
+                    Argentina (urban)  1993     1.976666
+                    Argentina (urban)  1994     1.911327
+                    Argentina (urban)  1995     3.855434
+                    Argentina (urban)  1996     4.217567
+                    Argentina (urban)  1997     3.765751
+                    Argentina (urban)  1998     3.969189
+                    Argentina (urban)  1999     4.187958
+                    Argentina (urban)  2000     4.988261
+                    Argentina (urban)  2001     8.234787
+                    Argentina (urban)  2002    12.447155
+                    Argentina (urban)  2003     5.363647
+                    Argentina (urban)  2004     3.878988
+                    Argentina (urban)  2005     2.683750
+                    Argentina (urban)  2006     2.173589
+                    Argentina (urban)  2007     1.797510
+                    Argentina (urban)  2008     1.637588
+                    Argentina (urban)  2009     1.553487
+                    Argentina (urban)  2010     0.746541
+                    Argentina (urban)  2011     0.711377
+                    Argentina (urban)  2012     0.647047
+                    Argentina (urban)  2013     0.666675
+                    Argentina (urban)  2014     0.604780
+                    Argentina (urban)  2016     0.696885
+                    Argentina (urban)  2017     0.603796
+                    Argentina (urban)  2018     1.044324
+                    Argentina (urban)  2019     1.109743
+                    Argentina (urban)  2020     1.173125
+                    Argentina (urban)  2021     0.894218
+                    Argentina (urban)  2022     0.611890
+                              Armenia  1999    11.899414
+                              Armenia  2001    13.974751
+                              Armenia  2002     9.966604
+                              Armenia  2003     7.539517
+                              Armenia  2004     5.317806
+                              Armenia  2005     2.629570
+                              Armenia  2006     1.998593
+                              Armenia  2007     1.536203
+                              Armenia  2008     0.879694
+                              Armenia  2009     1.247656
+                              Armenia  2010     0.951465
+                              Armenia  2011     1.185071
+                              Armenia  2012     0.832222
+                              Armenia  2013     1.738265
+                              Armenia  2014     1.439143
+                              Armenia  2015     1.146360
+                              Armenia  2016     1.107947
+                              Armenia  2017     0.785655
+                              Armenia  2018     1.339821
+                              Armenia  2019     1.030070
+                              Armenia  2020     0.352011
+                              Armenia  2021     0.523521
+                              Armenia  2022     0.781078
+                            Australia  1981     0.993503
+                            Australia  1985     1.001310
+                            Australia  1989     0.744275
+                            Australia  1995     0.749782
+                            Australia  2001     0.747412
+                            Australia  2003     0.997331
+                            Australia  2004     0.712537
+                            Australia  2008     0.361232
+                            Australia  2010     0.349168
+                            Australia  2014     0.498484
+                            Australia  2016     0.498742
+                            Australia  2018     0.497094
+                              Austria  1994     0.230915
+                              Austria  1995     0.000000
+                              Austria  1996     0.000000
+                              Austria  1997     0.245983
+                              Austria  1998     0.239445
+                              Austria  1999     0.226005
+                              Austria  2000     0.000000
+                              Austria  2003     0.332203
+                              Austria  2004     0.081653
+                              Austria  2005     0.153690
+                              Austria  2006     0.090110
+                              Austria  2007     0.372292
+                              Austria  2008     0.471167
+                              Austria  2009     0.656235
+                              Austria  2010     0.490703
+                              Austria  2011     0.415404
+                              Austria  2012     0.616917
+                              Austria  2013     0.337998
+                              Austria  2014     0.224260
+                              Austria  2015     0.677193
+                              Austria  2016     0.664064
+                              Austria  2017     0.318090
+                              Austria  2018     0.568358
+                              Austria  2019     0.640639
+                              Austria  2020     0.683578
+                              Austria  2021     0.485822
+                           Azerbaijan  1995    12.420592
+                           Azerbaijan  2001     6.157659
+                           Azerbaijan  2002     0.079501
+                           Azerbaijan  2003     0.050581
+                           Azerbaijan  2004     0.000000
+                           Azerbaijan  2005     0.000000
+                           Bangladesh  1983    37.284000
+                           Bangladesh  1985    31.957998
+                           Bangladesh  1988    41.737000
+                           Bangladesh  1991    41.944866
+                           Bangladesh  1995    33.668743
+                           Bangladesh  2000    33.321335
+                           Bangladesh  2005    23.966590
+                           Bangladesh  2010    18.223856
+                           Bangladesh  2016    13.468303
+                           Bangladesh  2022     5.008496
+                              Belarus  1998    21.763365
+                              Belarus  1999    19.192299
+                              Belarus  2000    13.642426
+                              Belarus  2001     6.624224
+                              Belarus  2002     4.394347
+                              Belarus  2003     3.510355
+                              Belarus  2004     1.300831
+                              Belarus  2005     0.890887
+                              Belarus  2006     0.398579
+                              Belarus  2007     0.218590
+                              Belarus  2008     0.166524
+                              Belarus  2009     0.138172
+                              Belarus  2010     0.033943
+                              Belarus  2011     0.006576
+                              Belarus  2012     0.012056
+                              Belarus  2013     0.000000
+                              Belarus  2014     0.000000
+                              Belarus  2015     0.000000
+                              Belarus  2016     0.000000
+                              Belarus  2017     0.000000
+                              Belarus  2018     0.000000
+                              Belarus  2019     0.000000
+                              Belarus  2020     0.000000
+                              Belgium  1985     0.240188
+                              Belgium  1988     0.477809
+                              Belgium  1992     0.983284
+                              Belgium  1995     0.412410
+                              Belgium  1997     0.492479
+                              Belgium  2000     0.305506
+                              Belgium  2003     0.294419
+                              Belgium  2004     0.052022
+                              Belgium  2005     0.193070
+                              Belgium  2006     0.168942
+                              Belgium  2007     0.151451
+                              Belgium  2008     0.118417
+                              Belgium  2009     0.107581
+                              Belgium  2010     0.137115
+                              Belgium  2011     0.168268
+                              Belgium  2012     0.156571
+                              Belgium  2013     0.144508
+                              Belgium  2014     0.076496
+                              Belgium  2015     0.070759
+                              Belgium  2016     0.059816
+                              Belgium  2017     0.147869
+                              Belgium  2018     0.081114
+                              Belgium  2019     0.078552
+                              Belgium  2020     0.054725
+                              Belgium  2021     0.029965
+                               Belize  1993    13.547187
+                               Belize  1994    14.793828
+                               Belize  1996    18.196114
+                               Belize  1997    20.901537
+                               Belize  1998    20.732990
+                               Belize  1999    19.556927
+                                Benin  2003    53.089462
+                                Benin  2011    54.261650
+                                Benin  2015    50.709260
+                                Benin  2018    20.082186
+                                Benin  2021    12.723279
+                               Bhutan  2003    13.362205
+                               Bhutan  2007     5.853421
+                               Bhutan  2012     1.730330
+                               Bhutan  2017     0.945762
+                               Bhutan  2022     0.001539
+                              Bolivia  1997    15.538883
+                              Bolivia  1999    21.875101
+                              Bolivia  2000    24.247425
+                              Bolivia  2001    19.031044
+                              Bolivia  2002    19.686430
+                              Bolivia  2004    10.216771
+                              Bolivia  2005    15.606612
+                              Bolivia  2006    12.494706
+                              Bolivia  2007     9.466773
+                              Bolivia  2008     8.344567
+                              Bolivia  2009     8.781656
+                              Bolivia  2011     5.298905
+                              Bolivia  2012     6.467938
+                              Bolivia  2013     5.173073
+                              Bolivia  2014     4.275892
+                              Bolivia  2015     4.629964
+                              Bolivia  2016     5.620338
+                              Bolivia  2017     4.933362
+                              Bolivia  2018     3.274886
+                              Bolivia  2019     1.920535
+                              Bolivia  2020     3.121507
+                              Bolivia  2021     1.964501
+                      Bolivia (urban)  1990     1.085000
+                      Bolivia (urban)  1992     8.736937
+               Bosnia and Herzegovina  2001     0.325743
+               Bosnia and Herzegovina  2004     0.181144
+               Bosnia and Herzegovina  2007     0.066459
+               Bosnia and Herzegovina  2011     0.074979
+                             Botswana  1985    41.794000
+                             Botswana  1993    34.100000
+                             Botswana  2002    29.139406
+                             Botswana  2009    17.686708
+                             Botswana  2015    15.426243
+                               Brazil  1981    23.947900
+                               Brazil  1982    24.424822
+                               Brazil  1983    30.580912
+                               Brazil  1984    29.915466
+                               Brazil  1985    25.750450
+                               Brazil  1986    12.265663
+                               Brazil  1987    19.946053
+                               Brazil  1988    22.418053
+                               Brazil  1989    20.403696
+                               Brazil  1990    23.992811
+                               Brazil  1992    23.291227
+                               Brazil  1993    22.100883
+                               Brazil  1995    14.736035
+                               Brazil  1996    16.004680
+                               Brazil  1997    15.976236
+                               Brazil  1998    14.337863
+                               Brazil  1999    14.968738
+                               Brazil  2001    13.042174
+                               Brazil  2002    11.738640
+                               Brazil  2003    12.605869
+                               Brazil  2004    11.055812
+                               Brazil  2005     9.962901
+                               Brazil  2006     8.264235
+                               Brazil  2007     7.870375
+                               Brazil  2008     6.507662
+                               Brazil  2009     6.120392
+                               Brazil  2011     5.322490
+                               Brazil  2012     4.493511
+                               Brazil  2013     3.728552
+                               Brazil  2014     3.325948
+                               Brazil  2015     3.877473
+                               Brazil  2016     4.733754
+                               Brazil  2017     5.302752
+                               Brazil  2018     5.306075
+                               Brazil  2019     5.409223
+                               Brazil  2020     1.951068
+                               Brazil  2021     5.834562
+                               Brazil  2022     3.505301
+                             Bulgaria  1992     0.000000
+                             Bulgaria  2006     5.830692
+                             Bulgaria  2007     1.792190
+                             Bulgaria  2008     1.251184
+                             Bulgaria  2009     1.305750
+                             Bulgaria  2010     2.007736
+                             Bulgaria  2011     2.458757
+                             Bulgaria  2012     2.309444
+                             Bulgaria  2013     1.783777
+                             Bulgaria  2014     1.660309
+                             Bulgaria  2015     3.419648
+                             Bulgaria  2016     1.966491
+                             Bulgaria  2017     1.371766
+                             Bulgaria  2018     0.870461
+                             Bulgaria  2019     0.923634
+                             Bulgaria  2020     0.247863
+                             Bulgaria  2021     0.699141
+                         Burkina Faso  1994    82.079414
+                         Burkina Faso  1998    79.917890
+                         Burkina Faso  2003    54.703735
+                         Burkina Faso  2009    52.649170
+                         Burkina Faso  2014    39.602860
+                         Burkina Faso  2018    31.203825
+                         Burkina Faso  2021    25.277073
+                              Burundi  1992    75.059006
+                              Burundi  1998    79.441154
+                              Burundi  2006    71.844315
+                              Burundi  2013    65.132890
+                              Burundi  2020    62.065760
+                             Cameroon  1996    50.365902
+                             Cameroon  2001    25.694448
+                             Cameroon  2007    31.423130
+                             Cameroon  2014    25.657516
+                             Cameroon  2021    22.992220
+                               Canada  1971     2.249591
+                               Canada  1973     1.748547
+                               Canada  1975     1.492418
+                               Canada  1977     1.249660
+                               Canada  1979     1.249707
+                               Canada  1981     0.749349
+                               Canada  1982     0.743109
+                               Canada  1984     0.749835
+                               Canada  1985     0.499769
+                               Canada  1986     0.998190
+                               Canada  1987     0.499682
+                               Canada  1988     0.749371
+                               Canada  1989     1.249350
+                               Canada  1990     1.248458
+                               Canada  1991     1.247662
+                               Canada  1992     0.746888
+                               Canada  1993     1.247629
+                               Canada  1994     0.989580
+                               Canada  1995     0.746809
+                               Canada  1996     0.249518
+                               Canada  1997     0.247711
+                               Canada  1998     0.499656
+                               Canada  1999     0.490963
+                               Canada  2000     0.247821
+                               Canada  2001     0.249382
+                               Canada  2002     0.242306
+                               Canada  2003     0.237109
+                               Canada  2004     0.243559
+                               Canada  2005     0.244990
+                               Canada  2006     0.249148
+                               Canada  2007     0.248252
+                               Canada  2008     0.245462
+                               Canada  2009     0.244310
+                               Canada  2010     0.248831
+                               Canada  2011     0.226145
+                               Canada  2012     0.246521
+                               Canada  2013     0.496485
+                               Canada  2014     0.242158
+                               Canada  2015     0.245904
+                               Canada  2016     0.248714
+                               Canada  2017     0.247011
+                               Canada  2018     0.249971
+                               Canada  2019     0.248638
+                           Cape Verde  2001    19.574156
+                           Cape Verde  2007    10.567116
+                           Cape Verde  2015     4.564231
+             Central African Republic  1992    82.185000
+             Central African Republic  2008    61.884224
+             Central African Republic  2021    65.666510
+                                 Chad  2003    57.790245
+                                 Chad  2011    36.616726
+                                 Chad  2018    30.882942
+                                 Chad  2022    30.845234
+                                Chile  1987    15.380129
+                                Chile  1990    10.668008
+                                Chile  1992     6.699598
+                                Chile  1994     6.797464
+                                Chile  1996     4.664468
+                                Chile  1998     4.586697
+                                Chile  2000     5.826292
+                                Chile  2003     5.287876
+                                Chile  2006     2.045367
+                                Chile  2009     1.666307
+                                Chile  2011     0.903875
+                                Chile  2013     0.517119
+                                Chile  2015     0.429281
+                                Chile  2017     0.359708
+                                Chile  2020     1.341573
+                                Chile  2022     0.395051
+                                China  1981    91.778530
+                                China  1984    81.190254
+                                China  1987    67.385670
+                                China  1990    71.962074
+                                China  1993    65.567360
+                                China  1996    48.185055
+                                China  1999    46.134586
+                                China  2002    36.889233
+                                China  2005    22.254406
+                                China  2008    17.267706
+                                China  2010    13.379456
+                                China  2011     9.952238
+                                China  2012     8.316196
+                                China  2013     2.682018
+                                China  2014     1.743647
+                                China  2015     0.564260
+                                China  2016     0.080904
+                                China  2017     0.000000
+                                China  2018     0.000000
+                                China  2019     0.000000
+                                China  2020     0.000000
+                                China  2021     0.000000
+                        China (rural)  1981    96.871000
+                        China (rural)  1984    88.666000
+                        China (rural)  1987    78.375000
+                        China (rural)  1990    83.701004
+                        China (rural)  1993    81.542000
+                        China (rural)  1996    61.914997
+                        China (rural)  1999    62.647003
+                        China (rural)  2002    54.851000
+                        China (rural)  2005    35.628000
+                        China (rural)  2008    31.766000
+                        China (rural)  2010    26.350998
+                        China (rural)  2011    20.110000
+                        China (rural)  2012    17.241000
+                        China (rural)  2013     5.708000
+                        China (rural)  2014     3.812000
+                        China (rural)  2015     1.268000
+                        China (rural)  2016     0.187000
+                        China (rural)  2017     0.000000
+                        China (rural)  2018     0.000000
+                        China (rural)  2019     0.000000
+                        China (rural)  2020     0.000000
+                        China (rural)  2021     0.000000
+                        China (urban)  1981    71.558000
+                        China (urban)  1984    54.996002
+                        China (urban)  1987    33.074997
+                        China (urban)  1990    39.306000
+                        China (urban)  1993    26.651999
+                        China (urban)  1996    18.896000
+                        China (urban)  1999    15.286000
+                        China (urban)  2002     8.106000
+                        China (urban)  2005     4.177000
+                        China (urban)  2008     0.613000
+                        China (urban)  2010     0.000000
+                        China (urban)  2011     0.000000
+                        China (urban)  2012     0.000000
+                        China (urban)  2013     0.000000
+                        China (urban)  2014     0.000000
+                        China (urban)  2015     0.000000
+                        China (urban)  2016     0.000000
+                        China (urban)  2017     0.000000
+                        China (urban)  2018     0.000000
+                        China (urban)  2019     0.000000
+                        China (urban)  2020     0.000000
+                        China (urban)  2021     0.000000
+                             Colombia  1992     9.557514
+                             Colombia  1996    17.573690
+                             Colombia  1999    21.354277
+                             Colombia  2000    17.496916
+                             Colombia  2001    20.995247
+                             Colombia  2002    14.178107
+                             Colombia  2003    13.005037
+                             Colombia  2004    12.007561
+                             Colombia  2005    10.736817
+                             Colombia  2008    11.025411
+                             Colombia  2009     9.602201
+                             Colombia  2010     8.284389
+                             Colombia  2011     6.828150
+                             Colombia  2012     6.715116
+                             Colombia  2013     6.111701
+                             Colombia  2014     5.431383
+                             Colombia  2015     4.925476
+                             Colombia  2016     4.913530
+                             Colombia  2017     4.339460
+                             Colombia  2018     4.498261
+                             Colombia  2019     5.284738
+                             Colombia  2020     9.359861
+                             Colombia  2021     7.334666
+                             Colombia  2022     6.036548
+                     Colombia (urban)  1980    20.945000
+                     Colombia (urban)  1988    14.625999
+                     Colombia (urban)  1989    14.002999
+                     Colombia (urban)  1991    12.752000
+                              Comoros  2004    14.625825
+                              Comoros  2014    18.643723
+                                Congo  2005    49.553700
+                                Congo  2011    35.357456
+                           Costa Rica  1981    25.860000
+                           Costa Rica  1986    13.922999
+                           Costa Rica  1989    10.552571
+                           Costa Rica  1990    10.379871
+                           Costa Rica  1991    12.413738
+                           Costa Rica  1992     9.941776
+                           Costa Rica  1993     8.527353
+                           Costa Rica  1994     7.041064
+                           Costa Rica  1995     7.149303
+                           Costa Rica  1996     8.220924
+                           Costa Rica  1997     6.724826
+                           Costa Rica  1998     5.224196
+                           Costa Rica  1999     6.818424
+                           Costa Rica  2000     6.926794
+                           Costa Rica  2001     5.094759
+                           Costa Rica  2002     4.675287
+                           Costa Rica  2003     4.724285
+                           Costa Rica  2004     4.663471
+                           Costa Rica  2005     3.333950
+                           Costa Rica  2006     3.337846
+                           Costa Rica  2007     1.820663
+                           Costa Rica  2008     2.420610
+                           Costa Rica  2009     2.477399
+                           Costa Rica  2010     1.489236
+                           Costa Rica  2011     1.750300
+                           Costa Rica  2012     1.673368
+                           Costa Rica  2013     1.642579
+                           Costa Rica  2014     1.505303
+                           Costa Rica  2015     1.573227
+                           Costa Rica  2016     1.336738
+                           Costa Rica  2017     1.172351
+                           Costa Rica  2018     1.505753
+                           Costa Rica  2019     1.057139
+                           Costa Rica  2020     2.291326
+                           Costa Rica  2021     1.242194
+                           Costa Rica  2022     0.886874
+                           Costa Rica  2023     0.882620
+                        Cote d'Ivoire  1985     8.229618
+                        Cote d'Ivoire  1986     4.435484
+                        Cote d'Ivoire  1987     9.430369
+                        Cote d'Ivoire  1988    13.449971
+                        Cote d'Ivoire  1992    27.058142
+                        Cote d'Ivoire  1995    25.906212
+                        Cote d'Ivoire  1998    30.364796
+                        Cote d'Ivoire  2008    34.417350
+                        Cote d'Ivoire  2015    33.447136
+                        Cote d'Ivoire  2018    11.502216
+                        Cote d'Ivoire  2021     9.733192
+                              Croatia  1988     0.000000
+                              Croatia  2009     0.857599
+                              Croatia  2010     1.209845
+                              Croatia  2011     0.625336
+                              Croatia  2012     0.787402
+                              Croatia  2013     0.728868
+                              Croatia  2014     0.981814
+                              Croatia  2015     0.594815
+                              Croatia  2016     0.615991
+                              Croatia  2017     0.517149
+                              Croatia  2018     0.437551
+                              Croatia  2019     0.259926
+                              Croatia  2020     0.313934
+                              Croatia  2021     0.308004
+                               Cyprus  2004     0.094068
+                               Cyprus  2005     0.006351
+                               Cyprus  2006     0.018199
+                               Cyprus  2007     0.025159
+                               Cyprus  2008     0.008470
+                               Cyprus  2009     0.111965
+                               Cyprus  2010     0.036670
+                               Cyprus  2011     0.008045
+                               Cyprus  2012     0.004238
+                               Cyprus  2013     0.097019
+                               Cyprus  2014     0.078330
+                               Cyprus  2015     0.026798
+                               Cyprus  2016     0.041149
+                               Cyprus  2017     0.032829
+                               Cyprus  2018     0.016507
+                               Cyprus  2019     0.153832
+                               Cyprus  2020     0.012642
+                               Cyprus  2021     0.005303
+                              Czechia  1992     0.000000
+                              Czechia  1993     0.000000
+                              Czechia  1996     0.000000
+                              Czechia  2002     0.000000
+                              Czechia  2004     0.000000
+                              Czechia  2005     0.004933
+                              Czechia  2006     0.065811
+                              Czechia  2007     0.115903
+                              Czechia  2008     0.032780
+                              Czechia  2009     0.012036
+                              Czechia  2010     0.036178
+                              Czechia  2011     0.046061
+                              Czechia  2012     0.032207
+                              Czechia  2013     0.045691
+                              Czechia  2014     0.000000
+                              Czechia  2015     0.008765
+                              Czechia  2016     0.000000
+                              Czechia  2017     0.000000
+                              Czechia  2018     0.008862
+                              Czechia  2019     0.000000
+                              Czechia  2020     0.008142
+                              Czechia  2021     0.059851
+         Democratic Republic of Congo  2004    91.467300
+         Democratic Republic of Congo  2012    69.688450
+         Democratic Republic of Congo  2020    78.942020
+                              Denmark  1987     0.497396
+                              Denmark  1992     0.493952
+                              Denmark  1995     0.000000
+                              Denmark  2000     0.000000
+                              Denmark  2003     0.343275
+                              Denmark  2004     0.314981
+                              Denmark  2005     0.254848
+                              Denmark  2006     0.137509
+                              Denmark  2007     0.013914
+                              Denmark  2008     0.113211
+                              Denmark  2009     0.494775
+                              Denmark  2010     0.057294
+                              Denmark  2011     0.000000
+                              Denmark  2012     0.000000
+                              Denmark  2013     0.310916
+                              Denmark  2014     0.202611
+                              Denmark  2015     0.175426
+                              Denmark  2016     0.278387
+                              Denmark  2017     0.140905
+                              Denmark  2018     0.170112
+                              Denmark  2019     0.251407
+                              Denmark  2020     0.164991
+                              Denmark  2021     0.153680
+                             Djibouti  2002    22.547215
+                             Djibouti  2012    19.691906
+                             Djibouti  2013    24.925982
+                             Djibouti  2017    19.079206
+                   Dominican Republic  1986     7.092000
+                   Dominican Republic  1989    17.415000
+                   Dominican Republic  1992     7.615000
+                   Dominican Republic  1996     6.450147
+                   Dominican Republic  1997     6.870507
+                   Dominican Republic  2000     6.714430
+                   Dominican Republic  2001     5.137963
+                   Dominican Republic  2002     7.614324
+                   Dominican Republic  2003     8.697802
+                   Dominican Republic  2004    11.607311
+                   Dominican Republic  2005     7.409543
+                   Dominican Republic  2006     6.255223
+                   Dominican Republic  2007     6.067928
+                   Dominican Republic  2008     5.448600
+                   Dominican Republic  2009     4.679977
+                   Dominican Republic  2010     3.869214
+                   Dominican Republic  2011     4.055294
+                   Dominican Republic  2012     3.848862
+                   Dominican Republic  2013     2.971823
+                   Dominican Republic  2014     3.355926
+                   Dominican Republic  2015     2.534987
+                   Dominican Republic  2016     2.030172
+                   Dominican Republic  2017     1.001545
+                   Dominican Republic  2018     0.835534
+                   Dominican Republic  2019     0.832687
+                   Dominican Republic  2020     0.959418
+                   Dominican Republic  2021     0.853729
+                   Dominican Republic  2022     0.757176
+          East Asia and Pacific (PIP)  1990    65.226840
+          East Asia and Pacific (PIP)  1991    63.887947
+          East Asia and Pacific (PIP)  1992    61.820377
+          East Asia and Pacific (PIP)  1993    59.818493
+          East Asia and Pacific (PIP)  1994    53.977320
+          East Asia and Pacific (PIP)  1995    48.958206
+          East Asia and Pacific (PIP)  1996    44.763710
+          East Asia and Pacific (PIP)  1997    44.439323
+          East Asia and Pacific (PIP)  1998    45.499220
+          East Asia and Pacific (PIP)  1999    42.101120
+          East Asia and Pacific (PIP)  2000    39.675434
+          East Asia and Pacific (PIP)  2001    36.990456
+          East Asia and Pacific (PIP)  2002    32.549126
+          East Asia and Pacific (PIP)  2003    28.546062
+          East Asia and Pacific (PIP)  2004    24.948715
+          East Asia and Pacific (PIP)  2005    20.694542
+          East Asia and Pacific (PIP)  2006    19.933287
+          East Asia and Pacific (PIP)  2007    17.602987
+          East Asia and Pacific (PIP)  2008    16.239542
+          East Asia and Pacific (PIP)  2009    14.463806
+          East Asia and Pacific (PIP)  2010    12.612144
+          East Asia and Pacific (PIP)  2011     9.925000
+          East Asia and Pacific (PIP)  2012     8.272548
+          East Asia and Pacific (PIP)  2013     4.318707
+          East Asia and Pacific (PIP)  2014     3.422671
+          East Asia and Pacific (PIP)  2015     2.340756
+          East Asia and Pacific (PIP)  2016     1.654871
+          East Asia and Pacific (PIP)  2017     1.188653
+          East Asia and Pacific (PIP)  2018     1.150427
+          East Asia and Pacific (PIP)  2019     0.978202
+          East Asia and Pacific (PIP)  2020     1.051459
+          East Asia and Pacific (PIP)  2021     1.082326
+          East Asia and Pacific (PIP)  2022     0.952624
+          East Asia and Pacific (PIP)  2023     0.890315
+          East Asia and Pacific (PIP)  2024     0.824413
+                           East Timor  2001    40.912490
+                           East Timor  2007    40.878075
+                           East Timor  2014    24.443077
+    Eastern and Southern Africa (PIP)  1990    54.239940
+    Eastern and Southern Africa (PIP)  1991    55.671196
+    Eastern and Southern Africa (PIP)  1992    57.003647
+    Eastern and Southern Africa (PIP)  1993    58.122807
+    Eastern and Southern Africa (PIP)  1994    58.315502
+    Eastern and Southern Africa (PIP)  1995    57.528313
+    Eastern and Southern Africa (PIP)  1996    56.613056
+    Eastern and Southern Africa (PIP)  1997    56.454624
+    Eastern and Southern Africa (PIP)  1998    56.614120
+    Eastern and Southern Africa (PIP)  1999    56.582134
+    Eastern and Southern Africa (PIP)  2000    56.347157
+    Eastern and Southern Africa (PIP)  2001    55.892350
+    Eastern and Southern Africa (PIP)  2002    56.558258
+    Eastern and Southern Africa (PIP)  2003    55.602062
+    Eastern and Southern Africa (PIP)  2004    52.267075
+    Eastern and Southern Africa (PIP)  2005    50.180000
+    Eastern and Southern Africa (PIP)  2006    48.307617
+    Eastern and Southern Africa (PIP)  2007    47.036884
+    Eastern and Southern Africa (PIP)  2008    45.817474
+    Eastern and Southern Africa (PIP)  2009    45.557384
+    Eastern and Southern Africa (PIP)  2010    44.182390
+    Eastern and Southern Africa (PIP)  2011    42.888466
+    Eastern and Southern Africa (PIP)  2012    42.234116
+    Eastern and Southern Africa (PIP)  2013    41.666790
+    Eastern and Southern Africa (PIP)  2014    41.517010
+    Eastern and Southern Africa (PIP)  2015    41.717606
+    Eastern and Southern Africa (PIP)  2016    42.219563
+    Eastern and Southern Africa (PIP)  2017    42.570976
+    Eastern and Southern Africa (PIP)  2018    42.768032
+    Eastern and Southern Africa (PIP)  2019    43.057068
+    Eastern and Southern Africa (PIP)  2020    44.483690
+    Eastern and Southern Africa (PIP)  2021    44.201730
+    Eastern and Southern Africa (PIP)  2022    43.564415
+    Eastern and Southern Africa (PIP)  2023    43.656254
+    Eastern and Southern Africa (PIP)  2024    43.202200
+                              Ecuador  1994    17.128565
+                              Ecuador  1999    21.815004
+                              Ecuador  2000    28.154139
+                              Ecuador  2003    14.815193
+                              Ecuador  2004    15.062325
+                              Ecuador  2005    11.803507
+                              Ecuador  2006     8.153784
+                              Ecuador  2007     8.518901
+                              Ecuador  2008     7.513952
+                              Ecuador  2009     7.310500
+                              Ecuador  2010     5.678202
+                              Ecuador  2011     4.669198
+                              Ecuador  2012     4.463145
+                              Ecuador  2013     3.241089
+                              Ecuador  2014     2.635611
+                              Ecuador  2015     3.440066
+                              Ecuador  2016     3.575028
+                              Ecuador  2017     3.213253
+                              Ecuador  2018     3.311491
+                              Ecuador  2019     3.583584
+                              Ecuador  2020     6.519245
+                              Ecuador  2021     3.583180
+                              Ecuador  2022     3.180792
+                              Ecuador  2023     3.798431
+                      Ecuador (urban)  1987    17.615000
+                      Ecuador (urban)  1995    13.808841
+                      Ecuador (urban)  1998    15.662539
+                                Egypt  1990     5.230000
+                                Egypt  1995     2.035000
+                                Egypt  1999     0.000000
+                                Egypt  2004     3.107614
+                                Egypt  2008     2.871903
+                                Egypt  2010     1.037314
+                                Egypt  2012     0.890078
+                                Egypt  2015     0.906030
+                                Egypt  2017     2.504851
+                                Egypt  2019     1.467015
+                          El Salvador  1989    19.428000
+                          El Salvador  1991    22.060562
+                          El Salvador  1995    13.259300
+                          El Salvador  1996    15.262267
+                          El Salvador  1998    21.031042
+                          El Salvador  1999    17.251175
+                          El Salvador  2000    12.942934
+                          El Salvador  2001    14.104641
+                          El Salvador  2002    14.728867
+                          El Salvador  2003    15.813787
+                          El Salvador  2004    11.488363
+                          El Salvador  2005    11.278455
+                          El Salvador  2006     7.650643
+                          El Salvador  2007     5.068491
+                          El Salvador  2008     7.717508
+                          El Salvador  2009     7.419960
+                          El Salvador  2010     6.345635
+                          El Salvador  2011     5.340929
+                          El Salvador  2012     4.637147
+                          El Salvador  2013     3.624729
+                          El Salvador  2014     3.441484
+                          El Salvador  2015     2.308848
+                          El Salvador  2016     2.632982
+                          El Salvador  2017     2.155499
+                          El Salvador  2018     1.842766
+                          El Salvador  2019     1.401915
+                          El Salvador  2021     3.586186
+                          El Salvador  2022     3.363398
+                              Estonia  1993     0.000000
+                              Estonia  2003     2.509491
+                              Estonia  2004     1.078871
+                              Estonia  2005     0.811684
+                              Estonia  2006     0.823972
+                              Estonia  2007     0.425324
+                              Estonia  2008     0.386178
+                              Estonia  2009     0.555037
+                              Estonia  2010     0.792220
+                              Estonia  2011     0.979615
+                              Estonia  2012     0.739739
+                              Estonia  2013     0.859655
+                              Estonia  2014     0.830527
+                              Estonia  2015     0.600040
+                              Estonia  2016     0.470059
+                              Estonia  2017     0.268706
+                              Estonia  2018     0.248736
+                              Estonia  2019     0.556940
+                              Estonia  2020     0.348659
+                              Estonia  2021     0.309240
+                             Eswatini  1994    85.444000
+                             Eswatini  2000    56.133385
+                             Eswatini  2009    49.325603
+                             Eswatini  2016    36.079850
+                             Ethiopia  1995    69.207146
+                             Ethiopia  1999    58.026524
+                             Ethiopia  2004    34.576767
+                             Ethiopia  2010    30.750937
+                             Ethiopia  2015    26.984606
+                     Ethiopia (rural)  1981    71.255000
+        Europe and Central Asia (PIP)  1990     3.634695
+        Europe and Central Asia (PIP)  1991     4.190509
+        Europe and Central Asia (PIP)  1992     5.487251
+        Europe and Central Asia (PIP)  1993     6.281484
+        Europe and Central Asia (PIP)  1994     8.115772
+        Europe and Central Asia (PIP)  1995     8.119874
+        Europe and Central Asia (PIP)  1996     8.099813
+        Europe and Central Asia (PIP)  1997     7.548305
+        Europe and Central Asia (PIP)  1998     7.724432
+        Europe and Central Asia (PIP)  1999    10.030625
+        Europe and Central Asia (PIP)  2000     9.158989
+        Europe and Central Asia (PIP)  2001     8.311846
+        Europe and Central Asia (PIP)  2002     7.407640
+        Europe and Central Asia (PIP)  2003     7.256392
+        Europe and Central Asia (PIP)  2004     5.538109
+        Europe and Central Asia (PIP)  2005     4.731936
+        Europe and Central Asia (PIP)  2006     3.301455
+        Europe and Central Asia (PIP)  2007     2.167360
+        Europe and Central Asia (PIP)  2008     1.390994
+        Europe and Central Asia (PIP)  2009     1.212999
+        Europe and Central Asia (PIP)  2010     1.158728
+        Europe and Central Asia (PIP)  2011     0.908328
+        Europe and Central Asia (PIP)  2012     0.869240
+        Europe and Central Asia (PIP)  2013     0.700767
+        Europe and Central Asia (PIP)  2014     1.011720
+        Europe and Central Asia (PIP)  2015     0.844023
+        Europe and Central Asia (PIP)  2016     0.666144
+        Europe and Central Asia (PIP)  2017     0.720794
+        Europe and Central Asia (PIP)  2018     0.437647
+        Europe and Central Asia (PIP)  2019     0.457997
+        Europe and Central Asia (PIP)  2020     0.523552
+        Europe and Central Asia (PIP)  2021     0.534998
+        Europe and Central Asia (PIP)  2022     0.492511
+        Europe and Central Asia (PIP)  2023     0.479654
+        Europe and Central Asia (PIP)  2024     0.455788
+                                 Fiji  2002     1.678159
+                                 Fiji  2008     1.027141
+                                 Fiji  2013     0.363552
+                                 Fiji  2019     1.318269
+                              Finland  1987     0.000000
+                              Finland  1991     0.000000
+                              Finland  1995     0.000000
+                              Finland  2000     0.000000
+                              Finland  2003     0.049275
+                              Finland  2004     0.039414
+                              Finland  2005     0.055315
+                              Finland  2006     0.080375
+                              Finland  2007     0.063743
+                              Finland  2008     0.053872
+                              Finland  2009     0.052470
+                              Finland  2010     0.053841
+                              Finland  2011     0.047391
+                              Finland  2012     0.052725
+                              Finland  2013     0.085138
+                              Finland  2014     0.066168
+                              Finland  2015     0.070209
+                              Finland  2016     0.047236
+                              Finland  2017     0.065778
+                              Finland  2018     0.056774
+                              Finland  2019     0.038829
+                              Finland  2020     0.027621
+                              Finland  2021     0.021343
+                               France  1970     0.000000
+                               France  1975     0.249014
+                               France  1979     0.248202
+                               France  1984     0.499204
+                               France  1990     0.247546
+                               France  1996     0.248639
+                               France  1997     0.246097
+                               France  1998     0.000000
+                               France  1999     0.000000
+                               France  2000     0.000000
+                               France  2001     0.000000
+                               France  2002     0.000000
+                               France  2003     0.157358
+                               France  2004     0.049726
+                               France  2005     0.043055
+                               France  2006     0.027629
+                               France  2007     0.014868
+                               France  2008     0.009692
+                               France  2009     0.044349
+                               France  2010     0.087395
+                               France  2011     0.025783
+                               France  2012     0.060952
+                               France  2013     0.060390
+                               France  2014     0.018679
+                               France  2015     0.133555
+                               France  2016     0.058126
+                               France  2017     0.015888
+                               France  2018     0.021168
+                               France  2019     0.051449
+                               France  2020     0.114896
+                               France  2021     0.056357
+                                Gabon  2005     5.483823
+                                Gabon  2017     2.468642
+                               Gambia  1998    74.095060
+                               Gambia  2003    50.685493
+                               Gambia  2010    29.829496
+                               Gambia  2015    13.382067
+                               Gambia  2020    17.242134
+                              Georgia  1996     6.767000
+                              Georgia  1997    18.784472
+                              Georgia  1998    16.961640
+                              Georgia  1999    21.790314
+                              Georgia  2000    22.899906
+                              Georgia  2001    23.008429
+                              Georgia  2002    12.689577
+                              Georgia  2003    12.949128
+                              Georgia  2004    12.372008
+                              Georgia  2005    12.882766
+                              Georgia  2006    12.590183
+                              Georgia  2007    14.197019
+                              Georgia  2008    12.446466
+                              Georgia  2009    12.127902
+                              Georgia  2010    14.364216
+                              Georgia  2011    13.401543
+                              Georgia  2012    10.666225
+                              Georgia  2013     8.078715
+                              Georgia  2014     6.127039
+                              Georgia  2015     4.879492
+                              Georgia  2016     4.913372
+                              Georgia  2017     6.229866
+                              Georgia  2018     5.559080
+                              Georgia  2019     4.848629
+                              Georgia  2020     5.806868
+                              Georgia  2021     5.485026
+                              Georgia  2022     4.268949
+                              Germany  1991     0.000000
+                              Germany  1992     0.000000
+                              Germany  1993     0.000000
+                              Germany  1994     0.197668
+                              Germany  1995     0.246437
+                              Germany  1996     0.000000
+                              Germany  1997     0.000000
+                              Germany  1998     0.000000
+                              Germany  1999     0.000000
+                              Germany  2000     0.000000
+                              Germany  2001     0.000000
+                              Germany  2002     0.000000
+                              Germany  2003     0.000000
+                              Germany  2004     0.000000
+                              Germany  2005     0.000000
+                              Germany  2006     0.000000
+                              Germany  2007     0.000000
+                              Germany  2008     0.000000
+                              Germany  2009     0.000000
+                              Germany  2010     0.000000
+                              Germany  2011     0.000000
+                              Germany  2012     0.000000
+                              Germany  2013     0.000000
+                              Germany  2014     0.000000
+                              Germany  2015     0.000000
+                              Germany  2016     0.000000
+                              Germany  2017     0.244458
+                              Germany  2018     0.000000
+                              Germany  2019     0.249579
+                              Germany  2020     0.243796
+                                Ghana  1987    58.385998
+                                Ghana  1988    57.656998
+                                Ghana  1991    64.167750
+                                Ghana  1998    54.995037
+                                Ghana  2005    42.467743
+                                Ghana  2012    25.689972
+                                Ghana  2016    25.208553
+                               Greece  1995     1.737675
+                               Greece  2000     0.493105
+                               Greece  2003     0.498298
+                               Greece  2004     0.641832
+                               Greece  2005     0.338562
+                               Greece  2006     0.552716
+                               Greece  2007     0.499264
+                               Greece  2008     0.344444
+                               Greece  2009     0.626635
+                               Greece  2010     0.973068
+                               Greece  2011     1.122917
+                               Greece  2012     1.455922
+                               Greece  2013     0.955176
+                               Greece  2014     1.513194
+                               Greece  2015     1.370091
+                               Greece  2016     1.039197
+                               Greece  2017     0.872777
+                               Greece  2018     0.139563
+                               Greece  2019     0.689552
+                               Greece  2020     0.806496
+                               Greece  2021     0.567095
+                              Grenada  2018     0.317904
+                            Guatemala  1986    49.703000
+                            Guatemala  1989    36.995000
+                            Guatemala  1998    14.702999
+                            Guatemala  2000     9.607776
+                            Guatemala  2006    11.650105
+                            Guatemala  2014     9.521302
+                               Guinea  1991    87.964000
+                               Guinea  1994    41.212265
+                               Guinea  2002    53.343784
+                               Guinea  2007    48.129784
+                               Guinea  2012    24.544147
+                               Guinea  2018    13.820100
+                        Guinea-Bissau  1991    42.357998
+                        Guinea-Bissau  1993    42.232567
+                        Guinea-Bissau  2002    53.166588
+                        Guinea-Bissau  2010    66.685120
+                        Guinea-Bissau  2018    21.660490
+                        Guinea-Bissau  2021    25.962856
+                               Guyana  1992    29.383999
+                               Guyana  1998    11.897037
+                                Haiti  2001    67.833630
+                                Haiti  2012    57.876140
+                             Honduras  1989    39.960000
+                             Honduras  1990    41.997000
+                             Honduras  1991    30.774721
+                             Honduras  1992    26.968342
+                             Honduras  1993    21.429638
+                             Honduras  1994    24.304441
+                             Honduras  1995    26.229053
+                             Honduras  1996    28.550964
+                             Honduras  1997    19.590014
+                             Honduras  1998    24.543867
+                             Honduras  1999    24.925201
+                             Honduras  2001    19.837118
+                             Honduras  2002    21.995176
+                             Honduras  2003    26.499472
+                             Honduras  2004    25.433020
+                             Honduras  2005    25.067038
+                             Honduras  2006    21.142117
+                             Honduras  2007    15.642992
+                             Honduras  2008    15.244036
+                             Honduras  2009    12.322080
+                             Honduras  2010    13.802202
+                             Honduras  2011    14.323090
+                             Honduras  2012    16.992704
+                             Honduras  2013    14.568504
+                             Honduras  2014    13.282177
+                             Honduras  2015    12.977554
+                             Honduras  2016    14.606982
+                             Honduras  2017    13.855521
+                             Honduras  2018    14.233573
+                             Honduras  2019    12.742991
+                     Honduras (urban)  1986    49.406002
+                              Hungary  1987     0.000000
+                              Hungary  1989     0.000000
+                              Hungary  1991     1.675787
+                              Hungary  1993     0.000000
+                              Hungary  1994     1.241222
+                              Hungary  1999     0.208965
+                              Hungary  2004     0.104682
+                              Hungary  2005     0.724505
+                              Hungary  2006     0.137653
+                              Hungary  2007     0.149940
+                              Hungary  2008     0.021265
+                              Hungary  2009     0.064793
+                              Hungary  2010     0.071793
+                              Hungary  2011     0.091564
+                              Hungary  2012     0.325759
+                              Hungary  2013     0.180299
+                              Hungary  2014     0.657674
+                              Hungary  2015     0.626155
+                              Hungary  2016     1.348723
+                              Hungary  2017     0.609267
+                              Hungary  2018     0.207530
+                              Hungary  2019     0.301702
+                              Hungary  2020     0.351476
+                              Hungary  2021     0.401596
+                              Iceland  2003     0.000000
+                              Iceland  2004     0.170065
+                              Iceland  2005     0.037020
+                              Iceland  2006     0.146805
+                              Iceland  2007     0.080614
+                              Iceland  2008     0.060815
+                              Iceland  2009     0.097201
+                              Iceland  2010     0.149384
+                              Iceland  2011     0.123284
+                              Iceland  2012     0.033556
+                              Iceland  2013     0.047026
+                              Iceland  2014     0.000000
+                              Iceland  2015     0.034490
+                              Iceland  2016     0.000000
+                              Iceland  2017     0.000000
+                                India  1977    63.542580
+                                India  1983    56.678000
+                                India  1987    50.929474
+                                India  1993    47.958366
+                                India  2004    40.580715
+                                India  2009    33.456543
+                                India  2011    22.859383
+                                India  2015    18.751444
+                                India  2016    18.123507
+                                India  2017    13.379473
+                                India  2018    11.096276
+                                India  2019    13.204494
+                                India  2020    15.454644
+                                India  2021    12.917313
+                        India (rural)  1977    68.604000
+                        India (rural)  1983    62.094000
+                        India (rural)  1987    55.330000
+                        India (rural)  1993    53.491830
+                        India (rural)  2004    45.316933
+                        India (rural)  2009    37.960625
+                        India (rural)  2011    26.315826
+                        India (rural)  2015    22.001148
+                        India (rural)  2016    20.092640
+                        India (rural)  2017    14.595456
+                        India (rural)  2018    11.679734
+                        India (rural)  2019    14.215045
+                        India (rural)  2020    16.749794
+                        India (rural)  2021    14.086140
+                        India (urban)  1977    44.251000
+                        India (urban)  1983    37.978000
+                        India (urban)  1987    36.623000
+                        India (urban)  1993    31.166390
+                        India (urban)  2004    26.608566
+                        India (urban)  2009    21.308130
+                        India (urban)  2011    14.218487
+                        India (urban)  2015    12.022836
+                        India (urban)  2016    14.106582
+                        India (urban)  2017    10.935455
+                        India (urban)  2018     9.940657
+                        India (urban)  2019    11.231797
+                        India (urban)  2020    12.962317
+                        India (urban)  2021    10.699697
+                            Indonesia  1984    74.302080
+                            Indonesia  1987    74.566530
+                            Indonesia  1990    61.774166
+                            Indonesia  1993    61.187595
+                            Indonesia  1996    49.345770
+                            Indonesia  1998    68.314070
+                            Indonesia  1999    43.987480
+                            Indonesia  2000    43.836050
+                            Indonesia  2001    40.336567
+                            Indonesia  2002    23.452720
+                            Indonesia  2003    22.823112
+                            Indonesia  2004    24.243776
+                            Indonesia  2005    20.130228
+                            Indonesia  2006    26.157452
+                            Indonesia  2007    21.551208
+                            Indonesia  2008    19.194849
+                            Indonesia  2009    18.845253
+                            Indonesia  2010    16.455803
+                            Indonesia  2011    14.102624
+                            Indonesia  2012    10.577222
+                            Indonesia  2013    10.808527
+                            Indonesia  2014     9.682687
+                            Indonesia  2015     8.451447
+                            Indonesia  2016     6.668349
+                            Indonesia  2017     4.302148
+                            Indonesia  2018     4.410075
+                            Indonesia  2019     3.355410
+                            Indonesia  2020     2.825925
+                            Indonesia  2021     2.857714
+                            Indonesia  2022     2.178291
+                            Indonesia  2023     1.815538
+                                 Iran  1986     9.244000
+                                 Iran  1990     8.808000
+                                 Iran  1994     4.224000
+                                 Iran  1998     4.286000
+                                 Iran  2005     1.021021
+                                 Iran  2006     0.849097
+                                 Iran  2009     1.491826
+                                 Iran  2011     0.504166
+                                 Iran  2012     0.254006
+                                 Iran  2013     0.288103
+                                 Iran  2014     0.616368
+                                 Iran  2015     0.400741
+                                 Iran  2016     0.445063
+                                 Iran  2017     0.329453
+                                 Iran  2018     0.671210
+                                 Iran  2019     0.726337
+                                 Iran  2020     0.811443
+                                 Iran  2021     0.652379
+                                 Iran  2022     0.468447
+                                 Iraq  2006     0.035182
+                                 Iraq  2012     0.088752
+                              Ireland  1987     0.689184
+                              Ireland  1994     0.163434
+                              Ireland  1995     0.176098
+                              Ireland  1996     0.224018
+                              Ireland  2000     0.178272
+                              Ireland  2002     0.235052
+                              Ireland  2003     0.127633
+                              Ireland  2004     0.052106
+                              Ireland  2005     0.021706
+                              Ireland  2006     0.398431
+                              Ireland  2007     0.098496
+                              Ireland  2008     0.180507
+                              Ireland  2009     0.490602
+                              Ireland  2010     0.542757
+                              Ireland  2011     0.544945
+                              Ireland  2012     0.335012
+                              Ireland  2013     0.682229
+                              Ireland  2014     0.388954
+                              Ireland  2015     0.367628
+                              Ireland  2016     0.134726
+                              Ireland  2017     0.243196
+                              Ireland  2018     0.003921
+                              Ireland  2019     0.058012
+                              Ireland  2020     0.144306
+                              Ireland  2021     0.063545
+                               Israel  1979     0.000000
+                               Israel  1986     0.235500
+                               Israel  1992     0.215327
+                               Israel  1997     0.245608
+                               Israel  2001     0.248978
+                               Israel  2002     0.480425
+                               Israel  2003     0.462706
+                               Israel  2004     0.499139
+                               Israel  2005     0.483315
+                               Israel  2006     0.224966
+                               Israel  2007     0.491812
+                               Israel  2008     0.483508
+                               Israel  2009     0.491628
+                               Israel  2010     0.460204
+                               Israel  2011     0.230771
+                               Israel  2012     0.489197
+                               Israel  2013     0.474573
+                               Israel  2014     0.492432
+                               Israel  2015     0.493854
+                               Israel  2016     0.241395
+                               Israel  2017     0.457425
+                               Israel  2018     0.496766
+                               Israel  2019     0.725289
+                               Israel  2020     0.449757
+                               Israel  2021     0.242221
+                                Italy  1977     0.229064
+                                Italy  1978     0.483308
+                                Italy  1979     0.488337
+                                Italy  1980     0.226867
+                                Italy  1981     0.000000
+                                Italy  1982     0.000000
+                                Italy  1983     0.218232
+                                Italy  1984     0.000000
+                                Italy  1986     0.246900
+                                Italy  1987     0.995118
+                                Italy  1989     0.000000
+                                Italy  1991     0.228989
+                                Italy  1993     1.249354
+                                Italy  1995     0.743948
+                                Italy  1998     1.742441
+                                Italy  2000     1.249517
+                                Italy  2002     1.498281
+                                Italy  2003     0.769403
+                                Italy  2004     0.604521
+                                Italy  2005     0.647290
+                                Italy  2006     0.653436
+                                Italy  2007     0.680243
+                                Italy  2008     0.704179
+                                Italy  2009     0.911579
+                                Italy  2010     1.265289
+                                Italy  2011     1.156048
+                                Italy  2012     1.200608
+                                Italy  2013     1.373167
+                                Italy  2014     1.232120
+                                Italy  2015     1.948867
+                                Italy  2016     1.629945
+                                Italy  2017     1.421634
+                                Italy  2018     1.457647
+                                Italy  2019     0.994346
+                                Italy  2020     0.827792
+                                Italy  2021     0.814530
+                              Jamaica  1988     4.555000
+                              Jamaica  1990     2.880487
+                              Jamaica  1993     8.088000
+                              Jamaica  1996     2.562861
+                              Jamaica  1999     2.314703
+                              Jamaica  2002     2.128691
+                              Jamaica  2004     1.177246
+                              Jamaica  2018     0.056063
+                              Jamaica  2021     0.309766
+                                Japan  2008     0.479826
+                                Japan  2010     0.000000
+                                Japan  2013     0.727888
+                               Jordan  1986     0.000000
+                               Jordan  1992     0.000000
+                               Jordan  1997     0.000000
+                               Jordan  2002     0.195181
+                               Jordan  2006     0.090887
+                               Jordan  2008     0.010805
+                               Jordan  2010     0.040855
+                           Kazakhstan  1993     8.434999
+                           Kazakhstan  1996     7.940509
+                           Kazakhstan  2001    12.814419
+                           Kazakhstan  2002     8.887372
+                           Kazakhstan  2003     6.167813
+                           Kazakhstan  2004     3.316706
+                           Kazakhstan  2005     8.661422
+                           Kazakhstan  2006     1.011472
+                           Kazakhstan  2007     0.385549
+                           Kazakhstan  2008     0.242865
+                           Kazakhstan  2009     0.244165
+                           Kazakhstan  2010     0.195123
+                           Kazakhstan  2011     0.071095
+                           Kazakhstan  2012     0.038424
+                           Kazakhstan  2013     0.033110
+                           Kazakhstan  2014     0.019275
+                           Kazakhstan  2015     0.038271
+                           Kazakhstan  2016     0.050529
+                           Kazakhstan  2017     0.041499
+                           Kazakhstan  2018     0.015141
+                           Kazakhstan  2019     0.016060
+                           Kazakhstan  2020     0.011827
+                           Kazakhstan  2021     0.017695
+                                Kenya  1992    26.448000
+                                Kenya  1994    25.880554
+                                Kenya  1997    25.393864
+                                Kenya  2005    36.673840
+                                Kenya  2015    29.365105
+                                Kenya  2020    35.031610
+                                Kenya  2021    36.146057
+                             Kiribati  2006    14.027153
+                             Kiribati  2019     1.678077
+                               Kosovo  2003     2.397860
+                               Kosovo  2005     4.209292
+                               Kosovo  2006     4.075942
+                               Kosovo  2009     3.409754
+                               Kosovo  2010     2.894365
+                               Kosovo  2011     1.880269
+                               Kosovo  2012     0.834931
+                               Kosovo  2013     0.445217
+                               Kosovo  2014     1.136909
+                               Kosovo  2015     0.779774
+                               Kosovo  2016     0.764696
+                               Kosovo  2017     0.440241
+                           Kyrgyzstan  2000    38.182440
+                           Kyrgyzstan  2001    33.356903
+                           Kyrgyzstan  2002    31.149364
+                           Kyrgyzstan  2003    25.703180
+                           Kyrgyzstan  2004    11.575469
+                           Kyrgyzstan  2005    13.574837
+                           Kyrgyzstan  2006     8.371434
+                           Kyrgyzstan  2007     8.752659
+                           Kyrgyzstan  2008     3.309289
+                           Kyrgyzstan  2009     1.546931
+                           Kyrgyzstan  2010     3.521418
+                           Kyrgyzstan  2011     1.257770
+                           Kyrgyzstan  2012     2.629815
+                           Kyrgyzstan  2013     2.620004
+                           Kyrgyzstan  2014     1.048444
+                           Kyrgyzstan  2015     2.180596
+                           Kyrgyzstan  2016     1.143511
+                           Kyrgyzstan  2017     1.268574
+                           Kyrgyzstan  2018     0.735891
+                           Kyrgyzstan  2019     0.659064
+                           Kyrgyzstan  2020     1.330974
+                           Kyrgyzstan  2021     0.715779
+                           Kyrgyzstan  2022     0.310517
+                                 Laos  1992    23.700804
+                                 Laos  1997    43.195446
+                                 Laos  2002    25.369883
+                                 Laos  2007    19.546540
+                                 Laos  2012    10.891045
+                                 Laos  2018     7.138362
+Latin America and the Caribbean (PIP)  1990    16.337910
+Latin America and the Caribbean (PIP)  1991    15.811359
+Latin America and the Caribbean (PIP)  1992    15.698417
+Latin America and the Caribbean (PIP)  1993    15.586461
+Latin America and the Caribbean (PIP)  1994    14.373239
+Latin America and the Caribbean (PIP)  1995    14.009261
+Latin America and the Caribbean (PIP)  1996    15.258795
+Latin America and the Caribbean (PIP)  1997    15.075909
+Latin America and the Caribbean (PIP)  1998    14.850272
+Latin America and the Caribbean (PIP)  1999    15.072675
+Latin America and the Caribbean (PIP)  2000    13.804455
+Latin America and the Caribbean (PIP)  2001    13.522697
+Latin America and the Caribbean (PIP)  2002    12.638988
+Latin America and the Caribbean (PIP)  2003    12.269237
+Latin America and the Caribbean (PIP)  2004    11.309916
+Latin America and the Caribbean (PIP)  2005    10.739448
+Latin America and the Caribbean (PIP)  2006     8.867487
+Latin America and the Caribbean (PIP)  2007     7.737145
+Latin America and the Caribbean (PIP)  2008     7.029680
+Latin America and the Caribbean (PIP)  2009     6.697408
+Latin America and the Caribbean (PIP)  2010     5.917654
+Latin America and the Caribbean (PIP)  2011     5.461968
+Latin America and the Caribbean (PIP)  2012     5.114975
+Latin America and the Caribbean (PIP)  2013     4.569449
+Latin America and the Caribbean (PIP)  2014     4.305876
+Latin America and the Caribbean (PIP)  2015     4.057602
+Latin America and the Caribbean (PIP)  2016     4.272208
+Latin America and the Caribbean (PIP)  2017     4.282839
+Latin America and the Caribbean (PIP)  2018     4.216765
+Latin America and the Caribbean (PIP)  2019     4.212441
+Latin America and the Caribbean (PIP)  2020     3.832641
+Latin America and the Caribbean (PIP)  2021     4.527383
+Latin America and the Caribbean (PIP)  2022     3.452317
+Latin America and the Caribbean (PIP)  2023     3.366245
+Latin America and the Caribbean (PIP)  2024     3.320501
+                               Latvia  1993     0.000000
+                               Latvia  1995     0.031000
+                               Latvia  1996     1.766000
+                               Latvia  2004     2.490399
+                               Latvia  2005     2.362022
+                               Latvia  2006     1.553332
+                               Latvia  2007     0.635004
+                               Latvia  2008     1.278742
+                               Latvia  2009     1.696778
+                               Latvia  2010     1.732676
+                               Latvia  2011     1.028609
+                               Latvia  2012     1.067699
+                               Latvia  2013     1.165379
+                               Latvia  2014     0.791356
+                               Latvia  2015     0.650311
+                               Latvia  2016     0.646951
+                               Latvia  2017     0.797218
+                               Latvia  2018     0.360002
+                               Latvia  2019     0.239101
+                               Latvia  2020     0.455012
+                               Latvia  2021     0.397305
+                              Lebanon  2011     0.000000
+                              Lesotho  1986    53.988000
+                              Lesotho  1994    53.691090
+                              Lesotho  2002    66.278360
+                              Lesotho  2017    32.399910
+                              Liberia  2007    53.347780
+                              Liberia  2014    25.930763
+                              Liberia  2016    27.617746
+                            Lithuania  1993     6.617000
+                            Lithuania  2004     2.707487
+                            Lithuania  2005     1.781727
+                            Lithuania  2006     1.523017
+                            Lithuania  2007     1.339564
+                            Lithuania  2008     1.389226
+                            Lithuania  2009     2.243251
+                            Lithuania  2010     1.534340
+                            Lithuania  2011     0.700575
+                            Lithuania  2012     0.947793
+                            Lithuania  2013     0.705008
+                            Lithuania  2014     1.262026
+                            Lithuania  2015     0.719859
+                            Lithuania  2016     1.270506
+                            Lithuania  2017     1.022507
+                            Lithuania  2018     0.925014
+                            Lithuania  2019     0.547930
+                            Lithuania  2020     0.189473
+                            Lithuania  2021     0.250601
+                           Luxembourg  1985     0.000000
+                           Luxembourg  1986     0.000000
+                           Luxembourg  1987     0.000000
+                           Luxembourg  1988     0.000000
+                           Luxembourg  1989     0.000000
+                           Luxembourg  1990     0.000000
+                           Luxembourg  1991     0.000000
+                           Luxembourg  1992     0.000000
+                           Luxembourg  1993     0.000000
+                           Luxembourg  1994     0.000000
+                           Luxembourg  1995     0.000000
+                           Luxembourg  1996     0.000000
+                           Luxembourg  1997     0.000000
+                           Luxembourg  1998     0.000000
+                           Luxembourg  1999     0.000000
+                           Luxembourg  2000     0.000000
+                           Luxembourg  2001     0.000000
+                           Luxembourg  2002     0.000000
+                           Luxembourg  2003     0.071747
+                           Luxembourg  2004     0.018192
+                           Luxembourg  2005     0.034694
+                           Luxembourg  2006     0.000000
+                           Luxembourg  2007     0.021916
+                           Luxembourg  2008     0.000000
+                           Luxembourg  2009     0.044111
+                           Luxembourg  2010     0.000000
+                           Luxembourg  2011     0.117579
+                           Luxembourg  2012     0.043619
+                           Luxembourg  2013     0.089103
+                           Luxembourg  2014     0.139925
+                           Luxembourg  2015     0.300125
+                           Luxembourg  2016     0.117220
+                           Luxembourg  2017     0.283130
+                           Luxembourg  2018     0.284818
+                           Luxembourg  2019     0.101187
+                           Luxembourg  2020     0.000000
+                           Luxembourg  2021     0.050037
+                           Madagascar  1980    48.699000
+                           Madagascar  1993    73.250710
+                           Madagascar  1997    69.370310
+                           Madagascar  1999    66.867460
+                           Madagascar  2001    70.996400
+                           Madagascar  2005    74.221370
+                           Madagascar  2010    80.154730
+                           Madagascar  2012    80.730060
+                               Malawi  1997    58.454800
+                               Malawi  2004    68.864586
+                               Malawi  2010    68.421520
+                               Malawi  2016    65.735720
+                               Malawi  2019    70.060600
+                             Malaysia  1984     2.676000
+                             Malaysia  1987     1.653000
+                             Malaysia  1989     0.724000
+                             Malaysia  1992     1.003000
+                             Malaysia  1995     1.447000
+                             Malaysia  1997     0.000000
+                             Malaysia  2003     1.571252
+                             Malaysia  2006     0.770138
+                             Malaysia  2008     0.696574
+                             Malaysia  2011     0.139926
+                             Malaysia  2013     0.033977
+                             Malaysia  2015     0.019037
+                             Malaysia  2018     0.011029
+                             Malaysia  2021     0.000000
+                             Maldives  2002     6.608180
+                             Maldives  2009     3.772896
+                             Maldives  2016     0.000000
+                             Maldives  2019     0.000000
+                                 Mali  1994    84.495720
+                                 Mali  2001    57.152240
+                                 Mali  2006    49.676163
+                                 Mali  2009    48.172142
+                                 Mali  2018    15.218806
+                                 Mali  2021    20.849255
+                                Malta  2006     0.511959
+                                Malta  2007     0.410324
+                                Malta  2008     0.109012
+                                Malta  2009     0.430445
+                                Malta  2010     0.219274
+                                Malta  2011     0.185705
+                                Malta  2012     0.117722
+                                Malta  2013     0.029666
+                                Malta  2014     0.000000
+                                Malta  2015     0.084378
+                                Malta  2016     0.092087
+                                Malta  2017     0.159887
+                                Malta  2018     0.103381
+                                Malta  2019     0.304682
+                                Malta  2020     0.255674
+                     Marshall Islands  2019     0.854344
+                           Mauritania  1987    41.383000
+                           Mauritania  1993    42.861000
+                           Mauritania  1995    21.832048
+                           Mauritania  2000    21.487999
+                           Mauritania  2004    18.127827
+                           Mauritania  2008    11.855509
+                           Mauritania  2014     6.490837
+                           Mauritania  2019     5.354673
+                            Mauritius  2006     0.307612
+                            Mauritius  2012     0.412390
+                            Mauritius  2017     0.125314
+                               Mexico  1984     8.306812
+                               Mexico  1989     8.705063
+                               Mexico  1992     7.865956
+                               Mexico  1994     7.933994
+                               Mexico  1996    13.960938
+                               Mexico  1998    15.237268
+                               Mexico  2000    10.678649
+                               Mexico  2002     7.521246
+                               Mexico  2004     7.150816
+                               Mexico  2005     7.800171
+                               Mexico  2006     5.354076
+                               Mexico  2008     5.982281
+                               Mexico  2010     4.704363
+                               Mexico  2012     4.199599
+                               Mexico  2014     3.983114
+                               Mexico  2016     2.316396
+                               Mexico  2018     1.875975
+                               Mexico  2020     2.131940
+                               Mexico  2022     1.179679
+                 Micronesia (country)  2005     8.559808
+                 Micronesia (country)  2013    16.028437
+         Micronesia (country) (urban)  2000    43.482056
+   Middle East and North Africa (PIP)  1990     6.421227
+   Middle East and North Africa (PIP)  1991     6.185039
+   Middle East and North Africa (PIP)  1992     5.442155
+   Middle East and North Africa (PIP)  1993     5.163024
+   Middle East and North Africa (PIP)  1994     4.740064
+   Middle East and North Africa (PIP)  1995     4.732519
+   Middle East and North Africa (PIP)  1996     3.952733
+   Middle East and North Africa (PIP)  1997     3.630623
+   Middle East and North Africa (PIP)  1998     3.272018
+   Middle East and North Africa (PIP)  1999     3.244640
+   Middle East and North Africa (PIP)  2000     2.964802
+   Middle East and North Africa (PIP)  2001     2.982883
+   Middle East and North Africa (PIP)  2002     2.802265
+   Middle East and North Africa (PIP)  2003     2.848141
+   Middle East and North Africa (PIP)  2004     2.681833
+   Middle East and North Africa (PIP)  2005     2.650859
+   Middle East and North Africa (PIP)  2006     2.560428
+   Middle East and North Africa (PIP)  2007     2.540975
+   Middle East and North Africa (PIP)  2008     2.458648
+   Middle East and North Africa (PIP)  2009     2.200760
+   Middle East and North Africa (PIP)  2010     1.871402
+   Middle East and North Africa (PIP)  2011     2.018924
+   Middle East and North Africa (PIP)  2012     2.228488
+   Middle East and North Africa (PIP)  2013     2.523530
+   Middle East and North Africa (PIP)  2014     2.770049
+   Middle East and North Africa (PIP)  2015     3.671862
+   Middle East and North Africa (PIP)  2016     4.447181
+   Middle East and North Africa (PIP)  2017     4.654591
+   Middle East and North Africa (PIP)  2018     4.700970
+   Middle East and North Africa (PIP)  2019     4.555744
+   Middle East and North Africa (PIP)  2020     5.313345
+   Middle East and North Africa (PIP)  2021     5.909273
+   Middle East and North Africa (PIP)  2022     6.091361
+   Middle East and North Africa (PIP)  2023     6.383049
+   Middle East and North Africa (PIP)  2024     6.732785
+                              Moldova  1997    13.009479
+                              Moldova  1998    24.047401
+                              Moldova  1999    33.508854
+                              Moldova  2000    31.084380
+                              Moldova  2001    23.255726
+                              Moldova  2002    13.558621
+                              Moldova  2003     5.608706
+                              Moldova  2004     6.550409
+                              Moldova  2005    10.874860
+                              Moldova  2006     1.962540
+                              Moldova  2007     0.952442
+                              Moldova  2008     0.957425
+                              Moldova  2009     0.658017
+                              Moldova  2010     0.410401
+                              Moldova  2011     0.216697
+                              Moldova  2012     0.138510
+                              Moldova  2013     0.025189
+                              Moldova  2014     0.000000
+                              Moldova  2015     0.031209
+                              Moldova  2016     0.108054
+                              Moldova  2017     0.000000
+                              Moldova  2018     0.000000
+                              Moldova  2019     0.028645
+                              Moldova  2021     0.000000
+                             Mongolia  1995    14.759999
+                             Mongolia  1998    28.449000
+                             Mongolia  2002    11.612102
+                             Mongolia  2007     1.695188
+                             Mongolia  2010     1.143571
+                             Mongolia  2011     0.856681
+                             Mongolia  2012     0.473109
+                             Mongolia  2014     0.327552
+                             Mongolia  2016     0.706497
+                             Mongolia  2018     0.711586
+                             Mongolia  2022     0.223410
+                           Montenegro  2012     3.031317
+                           Montenegro  2013     3.029182
+                           Montenegro  2014     1.627461
+                           Montenegro  2015     1.345771
+                           Montenegro  2016     2.474331
+                           Montenegro  2017     3.311506
+                           Montenegro  2018     2.839833
+                           Montenegro  2019     1.997674
+                           Montenegro  2020     1.767624
+                           Montenegro  2021     1.977124
+                              Morocco  1984    13.195001
+                              Morocco  1990     4.728802
+                              Morocco  1998     8.375334
+                              Morocco  2000     7.934031
+                              Morocco  2006     4.242266
+                              Morocco  2013     1.443110
+                           Mozambique  1996    82.684290
+                           Mozambique  2002    80.588230
+                           Mozambique  2008    70.795815
+                           Mozambique  2014    64.640860
+                           Mozambique  2019    74.528350
+                              Myanmar  2015     6.217002
+                              Myanmar  2017     1.991157
+                              Namibia  1993    53.517002
+                              Namibia  2003    35.861526
+                              Namibia  2009    26.944029
+                              Namibia  2015    15.617013
+                                Nauru  2012     1.671511
+                                Nepal  1984    68.462006
+                                Nepal  1995    55.155148
+                                Nepal  2003    40.306750
+                                Nepal  2010     8.240500
+                                Nepal  2022     0.366599
+                          Netherlands  1983     0.458280
+                          Netherlands  1987     0.249448
+                          Netherlands  1990     0.952731
+                          Netherlands  1993     1.248762
+                          Netherlands  1999     0.202898
+                          Netherlands  2004     0.235876
+                          Netherlands  2005     0.148320
+                          Netherlands  2006     0.045793
+                          Netherlands  2007     0.028631
+                          Netherlands  2008     0.133609
+                          Netherlands  2009     0.110770
+                          Netherlands  2010     0.047439
+                          Netherlands  2011     0.096053
+                          Netherlands  2012     0.075842
+                          Netherlands  2013     0.086879
+                          Netherlands  2014     0.057713
+                          Netherlands  2015     0.061663
+                          Netherlands  2016     0.045917
+                          Netherlands  2017     0.188766
+                          Netherlands  2018     0.100916
+                          Netherlands  2019     0.095729
+                          Netherlands  2020     0.027963
+                          Netherlands  2021     0.069717
+                            Nicaragua  1993    38.314228
+                            Nicaragua  1998    25.759579
+                            Nicaragua  2001    17.814484
+                            Nicaragua  2005     9.098515
+                            Nicaragua  2009     8.276645
+                            Nicaragua  2014     3.941029
+                                Niger  1992    84.365000
+                                Niger  1994    85.516365
+                                Niger  2005    80.501210
+                                Niger  2007    78.891030
+                                Niger  2011    60.559050
+                                Niger  2014    53.564710
+                                Niger  2018    50.905937
+                                Niger  2021    50.613815
+                              Nigeria  1985    47.822000
+                              Nigeria  1992    52.353878
+                              Nigeria  1996    58.419514
+                              Nigeria  2003    47.878925
+                              Nigeria  2010    34.885330
+                              Nigeria  2012    33.828920
+                              Nigeria  2015    32.256630
+                              Nigeria  2018    30.863297
+                      North Macedonia  2009     9.767671
+                      North Macedonia  2010    10.448227
+                      North Macedonia  2011     9.087074
+                      North Macedonia  2012     6.912792
+                      North Macedonia  2013     5.225699
+                      North Macedonia  2014     4.516735
+                      North Macedonia  2015     5.502538
+                      North Macedonia  2016     4.236636
+                      North Macedonia  2017     4.494007
+                      North Macedonia  2018     3.398556
+                      North Macedonia  2019     2.663351
+                               Norway  1979     0.227521
+                               Norway  1986     0.244876
+                               Norway  1991     0.475249
+                               Norway  1995     0.491034
+                               Norway  2000     0.235082
+                               Norway  2003     0.204524
+                               Norway  2004     0.264845
+                               Norway  2005     0.201963
+                               Norway  2006     0.130996
+                               Norway  2007     0.126683
+                               Norway  2008     0.226725
+                               Norway  2009     0.086948
+                               Norway  2010     0.150988
+                               Norway  2011     0.097571
+                               Norway  2012     0.117307
+                               Norway  2013     0.130436
+                               Norway  2014     0.112921
+                               Norway  2015     0.170049
+                               Norway  2016     0.280673
+                               Norway  2017     0.291652
+                               Norway  2018     0.254461
+                               Norway  2019     0.156534
+    Other high income countries (PIP)  1990     0.426085
+    Other high income countries (PIP)  1991     0.449235
+    Other high income countries (PIP)  1992     0.499106
+    Other high income countries (PIP)  1993     0.561037
+    Other high income countries (PIP)  1994     0.523372
+    Other high income countries (PIP)  1995     0.516504
+    Other high income countries (PIP)  1996     0.560115
+    Other high income countries (PIP)  1997     0.549477
+    Other high income countries (PIP)  1998     0.552823
+    Other high income countries (PIP)  1999     0.520408
+    Other high income countries (PIP)  2000     0.489482
+    Other high income countries (PIP)  2001     0.503458
+    Other high income countries (PIP)  2002     0.516712
+    Other high income countries (PIP)  2003     0.567681
+    Other high income countries (PIP)  2004     0.540638
+    Other high income countries (PIP)  2005     0.537448
+    Other high income countries (PIP)  2006     0.512042
+    Other high income countries (PIP)  2007     0.497629
+    Other high income countries (PIP)  2008     0.507919
+    Other high income countries (PIP)  2009     0.520898
+    Other high income countries (PIP)  2010     0.516457
+    Other high income countries (PIP)  2011     0.555295
+    Other high income countries (PIP)  2012     0.582115
+    Other high income countries (PIP)  2013     0.638183
+    Other high income countries (PIP)  2014     0.678960
+    Other high income countries (PIP)  2015     0.737264
+    Other high income countries (PIP)  2016     0.634459
+    Other high income countries (PIP)  2017     0.697301
+    Other high income countries (PIP)  2018     0.619826
+    Other high income countries (PIP)  2019     0.602474
+    Other high income countries (PIP)  2020     0.365423
+    Other high income countries (PIP)  2021     0.322816
+    Other high income countries (PIP)  2022     0.638882
+    Other high income countries (PIP)  2023     0.639080
+    Other high income countries (PIP)  2024     0.638831
+                             Pakistan  1987    67.336235
+                             Pakistan  1990    65.110800
+                             Pakistan  1996    22.294070
+                             Pakistan  1998    29.776600
+                             Pakistan  2001    33.275234
+                             Pakistan  2004    20.203358
+                             Pakistan  2005    20.296938
+                             Pakistan  2007    14.898684
+                             Pakistan  2010     9.381865
+                             Pakistan  2011     9.587885
+                             Pakistan  2013     7.362643
+                             Pakistan  2015     5.110188
+                             Pakistan  2018     4.932448
+                            Palestine  2004     0.589626
+                            Palestine  2005     0.202566
+                            Palestine  2006     0.313655
+                            Palestine  2007     1.357398
+                            Palestine  2009     0.265139
+                            Palestine  2010     0.043603
+                            Palestine  2011     0.189040
+                            Palestine  2016     0.502717
+                               Panama  1979     6.196000
+                               Panama  1989    22.412273
+                               Panama  1991    20.110653
+                               Panama  1995    15.194985
+                               Panama  1997    14.206259
+                               Panama  1998    14.458805
+                               Panama  1999    12.275087
+                               Panama  2000    11.071512
+                               Panama  2001    14.045302
+                               Panama  2002     9.564354
+                               Panama  2003     9.879252
+                               Panama  2004     8.747402
+                               Panama  2005     8.564978
+                               Panama  2006     9.389637
+                               Panama  2007     6.665941
+                               Panama  2008     4.073149
+                               Panama  2009     2.528209
+                               Panama  2010     3.392067
+                               Panama  2011     2.452237
+                               Panama  2012     3.465146
+                               Panama  2013     2.244559
+                               Panama  2014     2.893775
+                               Panama  2015     1.513955
+                               Panama  2016     1.516927
+                               Panama  2017     2.097129
+                               Panama  2018     1.405645
+                               Panama  2019     1.004100
+                               Panama  2021     1.108257
+                               Panama  2023     1.288193
+                     Papua New Guinea  1996    52.644897
+                     Papua New Guinea  2009    39.683310
+                             Paraguay  1990     1.189230
+                             Paraguay  1995    12.403020
+                             Paraguay  1997    10.553168
+                             Paraguay  1999    10.206738
+                             Paraguay  2001     8.940980
+                             Paraguay  2002    13.235834
+                             Paraguay  2003     8.302468
+                             Paraguay  2004     5.707772
+                             Paraguay  2005     6.072280
+                             Paraguay  2006     7.947744
+                             Paraguay  2007     7.842305
+                             Paraguay  2008     4.321988
+                             Paraguay  2009     5.767492
+                             Paraguay  2010     5.459742
+                             Paraguay  2011     5.048014
+                             Paraguay  2012     3.331310
+                             Paraguay  2013     1.787566
+                             Paraguay  2014     2.413888
+                             Paraguay  2015     1.891344
+                             Paraguay  2016     1.694292
+                             Paraguay  2017     0.981439
+                             Paraguay  2018     1.406687
+                             Paraguay  2019     1.011511
+                             Paraguay  2020     0.813284
+                             Paraguay  2021     0.689179
+                             Paraguay  2022     1.329559
+                                 Peru  1997    19.838614
+                                 Peru  1998    19.447102
+                                 Peru  1999    19.335910
+                                 Peru  2000    19.268625
+                                 Peru  2001    20.254484
+                                 Peru  2002    17.545010
+                                 Peru  2003    14.664634
+                                 Peru  2004    16.311806
+                                 Peru  2005    17.811798
+                                 Peru  2006    15.597147
+                                 Peru  2007    13.215263
+                                 Peru  2008    10.917175
+                                 Peru  2009     8.811538
+                                 Peru  2010     6.823769
+                                 Peru  2011     6.504024
+                                 Peru  2012     6.078547
+                                 Peru  2013     5.396334
+                                 Peru  2014     4.824813
+                                 Peru  2015     4.718548
+                                 Peru  2016     4.596183
+                                 Peru  2017     4.497059
+                                 Peru  2018     3.566986
+                                 Peru  2019     2.977085
+                                 Peru  2020     5.821755
+                                 Peru  2021     2.773094
+                                 Peru  2022     2.656552
+                          Philippines  1985    28.730000
+                          Philippines  1988    25.760872
+                          Philippines  1991    27.195000
+                          Philippines  1994    25.580002
+                          Philippines  1997    18.161642
+                          Philippines  2000    15.031992
+                          Philippines  2003    13.634615
+                          Philippines  2006    15.298533
+                          Philippines  2009    11.126217
+                          Philippines  2012    12.485543
+                          Philippines  2015     8.290904
+                          Philippines  2018     5.057057
+                          Philippines  2021     6.754131
+                               Poland  1985     0.000000
+                               Poland  1986     0.245607
+                               Poland  1987     0.000000
+                               Poland  1989     0.000000
+                               Poland  1992     0.223612
+                               Poland  1995     1.744774
+                               Poland  1999     0.496053
+                               Poland  2004     2.171584
+                               Poland  2005     0.920937
+                               Poland  2006     0.658852
+                               Poland  2007     0.471381
+                               Poland  2008     0.175348
+                               Poland  2009     0.366327
+                               Poland  2010     0.349238
+                               Poland  2011     0.341945
+                               Poland  2012     0.195022
+                               Poland  2013     0.421611
+                               Poland  2014     0.399825
+                               Poland  2015     0.433713
+                               Poland  2016     0.236794
+                               Poland  2017     0.348525
+                               Poland  2018     0.247577
+                               Poland  2019     0.062761
+                               Poland  2020     0.137340
+                               Poland  2021     0.107520
+                             Portugal  2003     0.895896
+                             Portugal  2004     0.536648
+                             Portugal  2005     0.543521
+                             Portugal  2006     0.092666
+                             Portugal  2007     0.257714
+                             Portugal  2008     0.137252
+                             Portugal  2009     0.165897
+                             Portugal  2010     0.136460
+                             Portugal  2011     0.508036
+                             Portugal  2012     0.703211
+                             Portugal  2013     0.855186
+                             Portugal  2014     0.545674
+                             Portugal  2015     0.482394
+                             Portugal  2016     0.374637
+                             Portugal  2017     0.410496
+                             Portugal  2018     0.290254
+                             Portugal  2019     0.148721
+                             Portugal  2020     0.472290
+                             Portugal  2021     0.226504
+                                Qatar  2017     0.000000
+                              Romania  1989     0.000000
+                              Romania  1992     0.000000
+                              Romania  1994    10.033000
+                              Romania  1995     1.748584
+                              Romania  1997     2.248916
+                              Romania  2006     7.355783
+                              Romania  2007     5.310613
+                              Romania  2008     4.086822
+                              Romania  2009     3.128695
+                              Romania  2010     4.174519
+                              Romania  2011     5.376420
+                              Romania  2012     6.208166
+                              Romania  2013     6.617123
+                              Romania  2014     7.022675
+                              Romania  2015     5.266119
+                              Romania  2016     3.240313
+                              Romania  2017     3.266133
+                              Romania  2018     2.666744
+                              Romania  2019     2.164077
+                              Romania  2020     1.409362
+                              Romania  2021     1.757045
+                               Russia  1993     3.529000
+                               Russia  1996     4.657000
+                               Russia  1997     1.522083
+                               Russia  1998     2.284447
+                               Russia  1999     4.385637
+                               Russia  2000     2.975407
+                               Russia  2001     1.757626
+                               Russia  2002     1.011397
+                               Russia  2003     1.092987
+                               Russia  2004     1.003275
+                               Russia  2005     0.774756
+                               Russia  2006     0.440968
+                               Russia  2007     0.201399
+                               Russia  2008     0.092125
+                               Russia  2009     0.066181
+                               Russia  2010     0.083329
+                               Russia  2011     0.038265
+                               Russia  2012     0.032211
+                               Russia  2013     0.008164
+                               Russia  2014     0.021316
+                               Russia  2015     0.032758
+                               Russia  2016     0.027193
+                               Russia  2017     0.033432
+                               Russia  2018     0.029192
+                               Russia  2019     0.030398
+                               Russia  2020     0.010298
+                               Rwanda  2000    75.213610
+                               Rwanda  2005    66.051740
+                               Rwanda  2010    59.205160
+                               Rwanda  2013    53.747190
+                               Rwanda  2016    52.005394
+                       Rwanda (rural)  1984    58.591003
+                          Saint Lucia  1995    38.125000
+                          Saint Lucia  2015     5.222044
+                                Samoa  2002     2.178178
+                                Samoa  2008     1.052526
+                                Samoa  2013     1.150227
+                Sao Tome and Principe  2000    20.446453
+                Sao Tome and Principe  2010    22.615791
+                Sao Tome and Principe  2017    15.723551
+                              Senegal  1991    70.099000
+                              Senegal  1994    60.327000
+                              Senegal  2001    52.440710
+                              Senegal  2005    41.061752
+                              Senegal  2011    40.984364
+                              Senegal  2018     9.222566
+                              Senegal  2021     9.926822
+                               Serbia  2012     5.340191
+                               Serbia  2013     5.843195
+                               Serbia  2014     6.923150
+                               Serbia  2015     6.646710
+                               Serbia  2016     6.356387
+                               Serbia  2017     5.394842
+                               Serbia  2018     2.923273
+                               Serbia  2019     2.334443
+                               Serbia  2020     1.557031
+                               Serbia  2021     1.242829
+                           Seychelles  1999     0.758265
+                           Seychelles  2006     0.372482
+                           Seychelles  2013     1.236059
+                           Seychelles  2018     0.511004
+                         Sierra Leone  2003    61.331980
+                         Sierra Leone  2011    38.698128
+                         Sierra Leone  2018    26.062035
+                             Slovakia  1992     0.000000
+                             Slovakia  1996     1.493482
+                             Slovakia  2004     0.067235
+                             Slovakia  2005     0.237374
+                             Slovakia  2006     0.228978
+                             Slovakia  2007     0.367574
+                             Slovakia  2008     0.407701
+                             Slovakia  2009     0.446779
+                             Slovakia  2010     0.495108
+                             Slovakia  2011     0.423861
+                             Slovakia  2012     0.400929
+                             Slovakia  2013     0.281499
+                             Slovakia  2014     0.675449
+                             Slovakia  2015     0.661760
+                             Slovakia  2016     1.380701
+                             Slovakia  2017     0.225368
+                             Slovakia  2018     0.169457
+                             Slovakia  2019     0.118116
+                             Slovakia  2020     0.212307
+                             Slovakia  2021     0.101481
+                             Slovenia  1987     0.000000
+                             Slovenia  1993     0.000000
+                             Slovenia  1997     0.000000
+                             Slovenia  1999     0.000000
+                             Slovenia  2004     0.025957
+                             Slovenia  2005     0.101451
+                             Slovenia  2006     0.050461
+                             Slovenia  2007     0.032349
+                             Slovenia  2008     0.000000
+                             Slovenia  2009     0.000000
+                             Slovenia  2010     0.009158
+                             Slovenia  2011     0.000000
+                             Slovenia  2012     0.026254
+                             Slovenia  2013     0.021757
+                             Slovenia  2014     0.000000
+                             Slovenia  2015     0.004853
+                             Slovenia  2016     0.000000
+                             Slovenia  2017     0.000000
+                             Slovenia  2018     0.000000
+                             Slovenia  2019     0.000000
+                             Slovenia  2020     0.000000
+                             Slovenia  2021     0.000000
+                      Solomon Islands  2005    50.616500
+                      Solomon Islands  2012    26.564884
+                         South Africa  1993    33.539997
+                         South Africa  2000    36.825000
+                         South Africa  2005    28.331333
+                         South Africa  2008    18.662973
+                         South Africa  2010    18.035963
+                         South Africa  2014    20.492558
+                     South Asia (PIP)  1990    50.025380
+                     South Asia (PIP)  1991    48.535225
+                     South Asia (PIP)  1992    46.799015
+                     South Asia (PIP)  1993    46.199830
+                     South Asia (PIP)  1994    44.582584
+                     South Asia (PIP)  1995    43.757954
+                     South Asia (PIP)  1996    42.236515
+                     South Asia (PIP)  1997    41.813107
+                     South Asia (PIP)  1998    41.766678
+                     South Asia (PIP)  1999    41.136333
+                     South Asia (PIP)  2000    40.879050
+                     South Asia (PIP)  2001    40.692097
+                     South Asia (PIP)  2002    40.370853
+                     South Asia (PIP)  2003    38.934550
+                     South Asia (PIP)  2004    37.170647
+                     South Asia (PIP)  2005    35.515728
+                     South Asia (PIP)  2006    33.808083
+                     South Asia (PIP)  2007    32.096706
+                     South Asia (PIP)  2008    30.944040
+                     South Asia (PIP)  2009    29.531940
+                     South Asia (PIP)  2010    25.400671
+                     South Asia (PIP)  2011    21.558980
+                     South Asia (PIP)  2012    19.845343
+                     South Asia (PIP)  2013    18.913494
+                     South Asia (PIP)  2014    17.816643
+                     South Asia (PIP)  2015    16.556831
+                     South Asia (PIP)  2016    15.743097
+                     South Asia (PIP)  2017    12.573509
+                     South Asia (PIP)  2018    10.077028
+                     South Asia (PIP)  2019    10.596655
+                     South Asia (PIP)  2020    12.991342
+                     South Asia (PIP)  2021    11.447931
+                     South Asia (PIP)  2022     9.702067
+                     South Asia (PIP)  2023     8.673819
+                     South Asia (PIP)  2024     7.586128
+                          South Korea  2006     0.249442
+                          South Korea  2008     0.242759
+                          South Korea  2010     0.495900
+                          South Korea  2012     0.249281
+                          South Korea  2014     0.235643
+                          South Korea  2016     0.247290
+                          South Korea  2017     0.240327
+                          South Korea  2018     0.248767
+                          South Korea  2019     0.000000
+                          South Korea  2020     0.000000
+                          South Korea  2021     0.000000
+                          South Sudan  2009    34.541650
+                          South Sudan  2016    67.327270
+                                Spain  1980     0.496927
+                                Spain  1985     0.237316
+                                Spain  1990     0.494426
+                                Spain  1993     1.237566
+                                Spain  1994     0.997527
+                                Spain  1995     1.482342
+                                Spain  1996     1.491116
+                                Spain  1997     0.985998
+                                Spain  1998     0.952705
+                                Spain  1999     0.720118
+                                Spain  2000     0.675388
+                                Spain  2003     0.808751
+                                Spain  2004     0.817652
+                                Spain  2005     0.737975
+                                Spain  2006     0.769632
+                                Spain  2007     0.363041
+                                Spain  2008     0.488919
+                                Spain  2009     0.805600
+                                Spain  2010     0.675725
+                                Spain  2011     1.127330
+                                Spain  2012     0.936594
+                                Spain  2013     1.136304
+                                Spain  2014     0.787157
+                                Spain  2015     0.903527
+                                Spain  2016     1.125280
+                                Spain  2017     0.678091
+                                Spain  2018     0.838615
+                                Spain  2019     0.793813
+                                Spain  2020     0.886366
+                                Spain  2021     0.564250
+                            Sri Lanka  1985    17.183000
+                            Sri Lanka  1990    11.616388
+                            Sri Lanka  1995    11.775274
+                            Sri Lanka  2002    11.017083
+                            Sri Lanka  2006     5.629365
+                            Sri Lanka  2009     3.495461
+                            Sri Lanka  2012     2.587149
+                            Sri Lanka  2016     1.295318
+                            Sri Lanka  2019     0.958613
+             Sub-Saharan Africa (PIP)  1990    54.623943
+             Sub-Saharan Africa (PIP)  1991    56.051838
+             Sub-Saharan Africa (PIP)  1992    57.077280
+             Sub-Saharan Africa (PIP)  1993    58.165040
+             Sub-Saharan Africa (PIP)  1994    58.486702
+             Sub-Saharan Africa (PIP)  1995    58.045050
+             Sub-Saharan Africa (PIP)  1996    57.403816
+             Sub-Saharan Africa (PIP)  1997    56.957405
+             Sub-Saharan Africa (PIP)  1998    56.732730
+             Sub-Saharan Africa (PIP)  1999    56.375324
+             Sub-Saharan Africa (PIP)  2000    55.977608
+             Sub-Saharan Africa (PIP)  2001    55.015575
+             Sub-Saharan Africa (PIP)  2002    54.366470
+             Sub-Saharan Africa (PIP)  2003    53.210155
+             Sub-Saharan Africa (PIP)  2004    50.417150
+             Sub-Saharan Africa (PIP)  2005    48.702217
+             Sub-Saharan Africa (PIP)  2006    47.159878
+             Sub-Saharan Africa (PIP)  2007    46.022545
+             Sub-Saharan Africa (PIP)  2008    44.479103
+             Sub-Saharan Africa (PIP)  2009    43.910374
+             Sub-Saharan Africa (PIP)  2010    42.120310
+             Sub-Saharan Africa (PIP)  2011    40.977715
+             Sub-Saharan Africa (PIP)  2012    39.765438
+             Sub-Saharan Africa (PIP)  2013    38.866550
+             Sub-Saharan Africa (PIP)  2014    38.099934
+             Sub-Saharan Africa (PIP)  2015    38.198880
+             Sub-Saharan Africa (PIP)  2016    37.981900
+             Sub-Saharan Africa (PIP)  2017    37.453465
+             Sub-Saharan Africa (PIP)  2018    36.874565
+             Sub-Saharan Africa (PIP)  2019    36.659363
+             Sub-Saharan Africa (PIP)  2020    37.934452
+             Sub-Saharan Africa (PIP)  2021    37.613663
+             Sub-Saharan Africa (PIP)  2022    36.988327
+             Sub-Saharan Africa (PIP)  2023    36.917393
+             Sub-Saharan Africa (PIP)  2024    36.452698
+                                Sudan  2009    18.576168
+                                Sudan  2014    15.263060
+                             Suriname  2022     1.104312
+                     Suriname (urban)  1999    18.417946
+                               Sweden  1975     0.498987
+                               Sweden  1981     0.249681
+                               Sweden  1987     0.246255
+                               Sweden  1992     0.243513
+                               Sweden  1995     0.247249
+                               Sweden  2000     0.000000
+                               Sweden  2001     0.248678
+                               Sweden  2002     0.000000
+                               Sweden  2003     0.323710
+                               Sweden  2004     0.397172
+                               Sweden  2005     1.084583
+                               Sweden  2006     0.364383
+                               Sweden  2007     0.410839
+                               Sweden  2008     0.576403
+                               Sweden  2009     0.458016
+                               Sweden  2010     0.547409
+                               Sweden  2011     0.615651
+                               Sweden  2012     0.457002
+                               Sweden  2013     0.650871
+                               Sweden  2014     0.474334
+                               Sweden  2015     0.569155
+                               Sweden  2016     0.261453
+                               Sweden  2017     0.248350
+                               Sweden  2018     0.725507
+                               Sweden  2019     0.316519
+                               Sweden  2020     0.389090
+                               Sweden  2021     0.629285
+                          Switzerland  1982     0.697407
+                          Switzerland  1992     0.494563
+                          Switzerland  2000     0.000000
+                          Switzerland  2002     0.000000
+                          Switzerland  2004     0.000000
+                          Switzerland  2006     0.046570
+                          Switzerland  2007     0.020816
+                          Switzerland  2008     0.068480
+                          Switzerland  2009     0.038058
+                          Switzerland  2010     0.048670
+                          Switzerland  2011     0.003111
+                          Switzerland  2012     0.008965
+                          Switzerland  2013     0.042184
+                          Switzerland  2014     0.032768
+                          Switzerland  2015     0.030543
+                          Switzerland  2016     0.034275
+                          Switzerland  2017     0.000000
+                          Switzerland  2018     0.030504
+                          Switzerland  2019     0.017387
+                          Switzerland  2020     0.037201
+                                Syria  1996     2.378354
+                                Syria  2003     1.055997
+                                Syria  2006     1.786000
+                                Syria  2009     1.225000
+                                Syria  2022    24.835932
+                               Taiwan  1981     0.000000
+                               Taiwan  1986     0.000000
+                               Taiwan  1991     0.000000
+                               Taiwan  1995     0.498811
+                               Taiwan  1997     0.000000
+                               Taiwan  2000     0.000000
+                               Taiwan  2005     0.000000
+                               Taiwan  2007     0.000000
+                               Taiwan  2010     0.241005
+                               Taiwan  2013     0.000000
+                               Taiwan  2016     0.000000
+                               Taiwan  2017     0.000000
+                               Taiwan  2018     0.000000
+                               Taiwan  2019     0.000000
+                               Taiwan  2020     0.000000
+                               Taiwan  2021     0.000000
+                           Tajikistan  1999    61.962402
+                           Tajikistan  2003    36.749760
+                           Tajikistan  2004    21.358160
+                           Tajikistan  2007    12.797472
+                           Tajikistan  2009     6.792115
+                           Tajikistan  2015     6.114529
+                             Tanzania  1991    69.288864
+                             Tanzania  2000    84.035330
+                             Tanzania  2007    56.240715
+                             Tanzania  2011    44.655464
+                             Tanzania  2018    44.949320
+                             Thailand  1981    22.728000
+                             Thailand  1988    17.636000
+                             Thailand  1990    12.345011
+                             Thailand  1992     8.995007
+                             Thailand  1994     4.503987
+                             Thailand  1996     3.086195
+                             Thailand  1998     2.175271
+                             Thailand  1999     3.950531
+                             Thailand  2000     3.967492
+                             Thailand  2002     1.759295
+                             Thailand  2004     1.185712
+                             Thailand  2006     0.929875
+                             Thailand  2007     0.541696
+                             Thailand  2008     0.304469
+                             Thailand  2009     0.247227
+                             Thailand  2010     0.265238
+                             Thailand  2011     0.071562
+                             Thailand  2012     0.115321
+                             Thailand  2013     0.060822
+                             Thailand  2014     0.090258
+                             Thailand  2015     0.046538
+                             Thailand  2016     0.036147
+                             Thailand  2017     0.037127
+                             Thailand  2018     0.032134
+                             Thailand  2019     0.095038
+                             Thailand  2020     0.046665
+                             Thailand  2021     0.013972
+                                 Togo  2006    60.969154
+                                 Togo  2011    58.887207
+                                 Togo  2015    54.692160
+                                 Togo  2018    28.434795
+                                 Togo  2021    26.591830
+                                Tonga  2000     3.094809
+                                Tonga  2009     1.261610
+                                Tonga  2015     1.791018
+                                Tonga  2021     0.019216
+                  Trinidad and Tobago  1988     0.000000
+                  Trinidad and Tobago  1992     1.343000
+                              Tunisia  1985    12.954000
+                              Tunisia  1990     9.290000
+                              Tunisia  1995     9.751000
+                              Tunisia  2000     4.318000
+                              Tunisia  2005     2.568062
+                              Tunisia  2010     1.496023
+                              Tunisia  2015     0.140062
+                              Tunisia  2021     0.273734
+                               Turkey  1987     0.877000
+                               Turkey  1994     2.571000
+                               Turkey  2002     2.104415
+                               Turkey  2003     3.855589
+                               Turkey  2004     2.013650
+                               Turkey  2005     2.340666
+                               Turkey  2006     1.770227
+                               Turkey  2007     1.305339
+                               Turkey  2008     0.564948
+                               Turkey  2009     0.720390
+                               Turkey  2010     0.773769
+                               Turkey  2011     0.129527
+                               Turkey  2012     0.093061
+                               Turkey  2013     0.298105
+                               Turkey  2014     0.204683
+                               Turkey  2015     0.212373
+                               Turkey  2016     0.202717
+                               Turkey  2017     0.300561
+                               Turkey  2018     0.354393
+                               Turkey  2019     0.451541
+                               Turkey  2020     0.470899
+                               Turkey  2021     0.442865
+                         Turkmenistan  1998    43.115105
+                               Tuvalu  2010     3.625352
+                               Uganda  1989    58.689000
+                               Uganda  1992    65.105450
+                               Uganda  1996    63.946450
+                               Uganda  1999    67.945190
+                               Uganda  2002    66.026750
+                               Uganda  2005    57.339550
+                               Uganda  2009    45.898636
+                               Uganda  2012    37.544044
+                               Uganda  2016    42.861576
+                               Uganda  2019    42.115630
+                              Ukraine  1992     3.906745
+                              Ukraine  1993     1.946016
+                              Ukraine  1995     7.896000
+                              Ukraine  1996     7.208013
+                              Ukraine  2002     2.662997
+                              Ukraine  2003     1.138516
+                              Ukraine  2004     0.929671
+                              Ukraine  2005     0.396811
+                              Ukraine  2006     0.160452
+                              Ukraine  2007     0.102031
+                              Ukraine  2008     0.026821
+                              Ukraine  2009     0.069318
+                              Ukraine  2010     0.012537
+                              Ukraine  2011     0.011349
+                              Ukraine  2012     0.113847
+                              Ukraine  2013     0.004415
+                              Ukraine  2014     0.012276
+                              Ukraine  2015     0.123217
+                              Ukraine  2016     0.098348
+                              Ukraine  2017     0.032224
+                              Ukraine  2018     0.009935
+                              Ukraine  2019     0.000000
+                              Ukraine  2020     0.028826
+                 United Arab Emirates  2013     0.000000
+                 United Arab Emirates  2018     0.000000
+                       United Kingdom  1968     0.222800
+                       United Kingdom  1969     0.243759
+                       United Kingdom  1970     0.000000
+                       United Kingdom  1971     0.000000
+                       United Kingdom  1972     0.230067
+                       United Kingdom  1973     0.000000
+                       United Kingdom  1974     0.238369
+                       United Kingdom  1975     0.236848
+                       United Kingdom  1976     0.000000
+                       United Kingdom  1977     0.244681
+                       United Kingdom  1978     0.000000
+                       United Kingdom  1979     0.000000
+                       United Kingdom  1980     0.000000
+                       United Kingdom  1981     0.000000
+                       United Kingdom  1982     0.000000
+                       United Kingdom  1983     0.000000
+                       United Kingdom  1984     0.000000
+                       United Kingdom  1985     0.217945
+                       United Kingdom  1986     0.246679
+                       United Kingdom  1987     0.000000
+                       United Kingdom  1988     0.000000
+                       United Kingdom  1989     0.231823
+                       United Kingdom  1990     0.000000
+                       United Kingdom  1991     0.000000
+                       United Kingdom  1992     0.240086
+                       United Kingdom  1993     0.241170
+                       United Kingdom  1994     0.246627
+                       United Kingdom  1995     0.247141
+                       United Kingdom  1996     0.246367
+                       United Kingdom  1997     0.247251
+                       United Kingdom  1998     0.245557
+                       United Kingdom  1999     0.248532
+                       United Kingdom  2000     0.248885
+                       United Kingdom  2001     0.247931
+                       United Kingdom  2002     0.249406
+                       United Kingdom  2003     0.249873
+                       United Kingdom  2004     0.249766
+                       United Kingdom  2005     0.246650
+                       United Kingdom  2006     0.230140
+                       United Kingdom  2007     0.243775
+                       United Kingdom  2008     0.246874
+                       United Kingdom  2009     0.248928
+                       United Kingdom  2010     0.246352
+                       United Kingdom  2011     0.247306
+                       United Kingdom  2012     0.244677
+                       United Kingdom  2013     0.244458
+                       United Kingdom  2014     0.246300
+                       United Kingdom  2015     0.249247
+                       United Kingdom  2016     0.249173
+                       United Kingdom  2017     0.249297
+                       United Kingdom  2018     0.498482
+                       United Kingdom  2019     0.498038
+                       United Kingdom  2020     0.499334
+                       United Kingdom  2021     0.245101
+                        United States  1963     1.248815
+                        United States  1964     1.242510
+                        United States  1965     0.999596
+                        United States  1966     0.998223
+                        United States  1967     0.998477
+                        United States  1968     0.747213
+                        United States  1969     0.499160
+                        United States  1970     0.992957
+                        United States  1971     0.747157
+                        United States  1972     0.748661
+                        United States  1973     0.749564
+                        United States  1974     0.747160
+                        United States  1975     0.497154
+                        United States  1976     0.498682
+                        United States  1977     0.499499
+                        United States  1978     0.499942
+                        United States  1979     0.499821
+                        United States  1980     0.499519
+                        United States  1981     0.499275
+                        United States  1982     0.747731
+                        United States  1983     0.499795
+                        United States  1984     0.495539
+                        United States  1985     0.497092
+                        United States  1986     0.496191
+                        United States  1987     0.499271
+                        United States  1988     0.499204
+                        United States  1989     0.499201
+                        United States  1990     0.497143
+                        United States  1991     0.499387
+                        United States  1992     0.497899
+                        United States  1993     0.499659
+                        United States  1994     0.499793
+                        United States  1995     0.499981
+                        United States  1996     0.748545
+                        United States  1997     0.749062
+                        United States  1998     0.748834
+                        United States  1999     0.748056
+                        United States  2000     0.749595
+                        United States  2001     0.749307
+                        United States  2002     0.748916
+                        United States  2003     0.997420
+                        United States  2004     0.999882
+                        United States  2005     0.999732
+                        United States  2006     0.998909
+                        United States  2007     0.999890
+                        United States  2008     0.999749
+                        United States  2009     0.999386
+                        United States  2010     0.999727
+                        United States  2011     0.998976
+                        United States  2012     0.998480
+                        United States  2013     0.995464
+                        United States  2014     1.248947
+                        United States  2015     1.249188
+                        United States  2016     0.999391
+                        United States  2017     1.249923
+                        United States  2018     0.999792
+                        United States  2019     0.999171
+                        United States  2020     0.249974
+                        United States  2021     0.248719
+                        United States  2022     1.249186
+                              Uruguay  2006     0.564088
+                              Uruguay  2007     0.380973
+                              Uruguay  2008     0.227578
+                              Uruguay  2009     0.282200
+                              Uruguay  2010     0.169116
+                              Uruguay  2011     0.139419
+                              Uruguay  2012     0.169385
+                              Uruguay  2013     0.174248
+                              Uruguay  2014     0.153462
+                              Uruguay  2015     0.149766
+                              Uruguay  2016     0.092272
+                              Uruguay  2017     0.066346
+                              Uruguay  2018     0.055850
+                              Uruguay  2019     0.102072
+                              Uruguay  2020     0.206795
+                              Uruguay  2021     0.112155
+                              Uruguay  2022     0.155176
+                      Uruguay (urban)  1981     0.000000
+                      Uruguay (urban)  1989     0.678131
+                      Uruguay (urban)  1992     0.560862
+                      Uruguay (urban)  1995     0.534462
+                      Uruguay (urban)  1996     0.590426
+                      Uruguay (urban)  1997     0.567849
+                      Uruguay (urban)  1998     0.643077
+                      Uruguay (urban)  2000     0.655162
+                      Uruguay (urban)  2001     0.497429
+                      Uruguay (urban)  2002     0.634637
+                      Uruguay (urban)  2003     0.811207
+                      Uruguay (urban)  2004     1.032641
+                      Uruguay (urban)  2005     0.861667
+                           Uzbekistan  1998    58.808240
+                           Uzbekistan  2000    81.342990
+                           Uzbekistan  2002    80.469690
+                           Uzbekistan  2003    81.503525
+                           Uzbekistan  2022     2.253093
+                              Vanuatu  2010    14.650419
+                              Vanuatu  2019     9.963333
+                            Venezuela  1981     6.680000
+                            Venezuela  1987     7.031000
+                            Venezuela  1989     5.318249
+                            Venezuela  1992     4.526043
+                            Venezuela  1995     9.928085
+                            Venezuela  1998    10.431870
+                            Venezuela  1999    11.833123
+                            Venezuela  2001    10.291491
+                            Venezuela  2002    16.381353
+                            Venezuela  2003    19.652534
+                            Venezuela  2004    16.609010
+                            Venezuela  2005    14.355710
+                            Venezuela  2006     7.130036
+                              Vietnam  1992    45.069004
+                              Vietnam  1997    24.389480
+                              Vietnam  2002    29.939255
+                              Vietnam  2004    20.142012
+                              Vietnam  2006    14.901668
+                              Vietnam  2008    11.139827
+                              Vietnam  2010     2.870482
+                              Vietnam  2012     1.660162
+                              Vietnam  2014     1.912046
+                              Vietnam  2016     1.263445
+                              Vietnam  2018     1.231441
+                              Vietnam  2020     0.653778
+                              Vietnam  2022     0.963795
+     Western and Central Africa (PIP)  1990    55.199550
+     Western and Central Africa (PIP)  1991    56.623310
+     Western and Central Africa (PIP)  1992    57.187717
+     Western and Central Africa (PIP)  1993    58.228374
+     Western and Central Africa (PIP)  1994    58.743430
+     Western and Central Africa (PIP)  1995    58.819443
+     Western and Central Africa (PIP)  1996    58.588920
+     Western and Central Africa (PIP)  1997    57.710136
+     Western and Central Africa (PIP)  1998    56.909960
+     Western and Central Africa (PIP)  1999    56.066765
+     Western and Central Africa (PIP)  2000    55.427140
+     Western and Central Africa (PIP)  2001    53.712242
+     Western and Central Africa (PIP)  2002    51.114834
+     Western and Central Africa (PIP)  2003    49.668503
+     Western and Central Africa (PIP)  2004    47.682890
+     Western and Central Africa (PIP)  2005    46.521710
+     Western and Central Africa (PIP)  2006    45.468506
+     Western and Central Africa (PIP)  2007    44.528942
+     Western and Central Africa (PIP)  2008    42.509650
+     Western and Central Africa (PIP)  2009    41.488827
+     Western and Central Africa (PIP)  2010    39.091118
+     Western and Central Africa (PIP)  2011    38.173847
+     Western and Central Africa (PIP)  2012    36.145410
+     Western and Central Africa (PIP)  2013    34.759586
+     Western and Central Africa (PIP)  2014    33.087112
+     Western and Central Africa (PIP)  2015    33.032955
+     Western and Central Africa (PIP)  2016    31.759570
+     Western and Central Africa (PIP)  2017    29.942915
+     Western and Central Africa (PIP)  2018    28.223600
+     Western and Central Africa (PIP)  2019    27.263000
+     Western and Central Africa (PIP)  2020    28.309670
+     Western and Central Africa (PIP)  2021    27.928606
+     Western and Central Africa (PIP)  2022    27.320498
+     Western and Central Africa (PIP)  2023    27.011112
+     Western and Central Africa (PIP)  2024    26.530159
+                                World  1990    37.870230
+                                World  1991    37.365230
+                                World  1992    36.623978
+                                World  1993    36.142628
+                                World  1994    34.182420
+                                World  1995    32.508305
+                                World  1996    31.011244
+                                World  1997    30.784607
+                                World  1998    31.131930
+                                World  1999    30.217880
+                                World  2000    29.288140
+                                World  2001    28.345945
+                                World  2002    26.834557
+                                World  2003    25.257180
+                                World  2004    23.345062
+                                World  2005    21.499578
+                                World  2006    20.507330
+                                World  2007    19.194946
+                                World  2008    18.302000
+                                World  2009    17.416820
+                                World  2010    15.677831
+                                World  2011    13.897983
+                                World  2012    12.926970
+                                World  2013    11.522181
+                                World  2014    11.001393
+                                World  2015    10.513923
+                                World  2016    10.209887
+                                World  2017     9.351074
+                                World  2018     8.708571
+                                World  2019     8.830450
+                                World  2020     9.681396
+                                World  2021     9.452808
+                                World  2022     8.964803
+                                World  2023     8.791051
+                                World  2024     8.545011
+              World (excluding China)  1990    28.563210
+              World (excluding China)  1991    28.407013
+              World (excluding China)  1992    28.164663
+              World (excluding China)  1993    28.222612
+              World (excluding China)  1994    27.644487
+              World (excluding China)  1995    27.097305
+              World (excluding China)  1996    26.459690
+              World (excluding China)  1997    26.411152
+              World (excluding China)  1998    27.040302
+              World (excluding China)  1999    26.072084
+              World (excluding China)  2000    25.741620
+              World (excluding China)  2001    25.349358
+              World (excluding China)  2002    24.273962
+              World (excluding China)  2003    23.561777
+              World (excluding China)  2004    22.383028
+              World (excluding China)  2005    21.312098
+              World (excluding China)  2006    20.526066
+              World (excluding China)  2007    19.379652
+              World (excluding China)  2008    18.552162
+              World (excluding China)  2009    17.919530
+              World (excluding China)  2010    16.223711
+              World (excluding China)  2011    14.827594
+              World (excluding China)  2012    14.005880
+              World (excluding China)  2013    13.576585
+              World (excluding China)  2014    13.137632
+              World (excluding China)  2015    12.793000
+              World (excluding China)  2016    12.513306
+              World (excluding China)  2017    11.463635
+              World (excluding China)  2018    10.660760
+              World (excluding China)  2019    10.793028
+              World (excluding China)  2020    11.812960
+              World (excluding China)  2021    11.514401
+              World (excluding China)  2022    10.900927
+              World (excluding China)  2023    10.668939
+              World (excluding China)  2024    10.349546
+              World (excluding India)  1990    35.590560
+              World (excluding India)  1991    35.022606
+              World (excluding India)  1992    34.207294
+              World (excluding India)  1993    33.718716
+              World (excluding India)  1994    31.470024
+              World (excluding India)  1995    29.591972
+              World (excluding India)  1996    27.954527
+              World (excluding India)  1997    27.729876
+              World (excluding India)  1998    28.236988
+              World (excluding India)  1999    27.332851
+              World (excluding India)  2000    26.277940
+              World (excluding India)  2001    25.181616
+              World (excluding India)  2002    23.378794
+              World (excluding India)  2003    21.622982
+              World (excluding India)  2004    19.523634
+              World (excluding India)  2005    17.582994
+              World (excluding India)  2006    16.714740
+              World (excluding India)  2007    15.452440
+              World (excluding India)  2008    14.535664
+              World (excluding India)  2009    13.743420
+              World (excluding India)  2010    12.752204
+              World (excluding India)  2011    11.579238
+              World (excluding India)  2012    10.834908
+              World (excluding India)  2013     9.326417
+              World (excluding India)  2014     8.946478
+              World (excluding India)  2015     8.641945
+              World (excluding India)  2016     8.458333
+              World (excluding India)  2017     8.248478
+              World (excluding India)  2018     8.121551
+              World (excluding India)  2019     8.106052
+              World (excluding India)  2020     8.425891
+              World (excluding India)  2021     8.528850
+              World (excluding India)  2022     8.384091
+              World (excluding India)  2023     8.464807
+              World (excluding India)  2024     8.457479
+                                Yemen  1998     8.098642
+                                Yemen  2005    10.542901
+                                Yemen  2014    19.802757
+                               Zambia  1991    57.438600
+                               Zambia  1993    59.056004
+                               Zambia  1996    46.773384
+                               Zambia  1998    47.225610
+                               Zambia  2002    56.388855
+                               Zambia  2004    61.062454
+                               Zambia  2006    64.698030
+                               Zambia  2010    64.401900
+                               Zambia  2015    60.793095
+                               Zambia  2022    64.349754
+                             Zimbabwe  2011    21.580000
+                             Zimbabwe  2017    34.206043
+                             Zimbabwe  2019    39.754530
