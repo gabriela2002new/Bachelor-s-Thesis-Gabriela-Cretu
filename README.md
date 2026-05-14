@@ -1,5 +1,5 @@
 # Latent Groups with Time-Varying Coefficients
-
+### July 7, 2025
 ## Overview
 
 This repository contains the implementation and empirical/simulation analysis for a model of **latent group structures with time-varying coefficients** applied to panel data.  
