@@ -20,12 +20,7 @@ The framework is applied to multiple datasets, including economic growth, povert
 - Model comparison using BIC and cross-validation criteria
 - Application to real-world socio-economic datasets
 
----
-Here’s a **clean, professional README.md** tailored to your project (latent groups + time-varying coefficients + econometric simulation/empirical analysis). You can copy-paste this directly into GitHub.
 
----
-
-````md
 # Latent Groups with Time-Varying Coefficients
 
 ## Overview
