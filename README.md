@@ -204,8 +204,7 @@ Main dependencies:
 
 ## Author
 
-*Gabriela Crețu
-*Econometrics & Operations Research
+Gabriela Crețu
 
 ---
 
